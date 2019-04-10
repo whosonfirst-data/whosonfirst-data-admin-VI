@@ -1,0 +1,63 @@
+{
+  "id": 1209042931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.63653,17.7322,-64.63653,17.7322",
+    "geom:latitude":17.7322,
+    "geom:longitude":-64.63653,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"31600.0",
+    "gn:asciiname":"Cotton Grove",
+    "gn:country_code":"VI",
+    "gn:dem":50,
+    "gn:elevation":"44.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795558,
+    "gn:latitude":17.7322,
+    "gn:longitude":-64.63653,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Cotton Grove",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795558
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"db958d7d6e513cceb3117940391d25f0",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632169,
+            "locality_id":1209042931
+        }
+    ],
+    "wof:id":1209042931,
+    "wof:lastmodified":1536299487,
+    "wof:name":"Cotton Grove",
+    "wof:parent_id":85632169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.63653000000001,
+    17.7322,
+    -64.63653000000001,
+    17.7322
+],
+  "geometry": {"coordinates":[-64.63653000000001,17.7322],"type":"Point"}
+}

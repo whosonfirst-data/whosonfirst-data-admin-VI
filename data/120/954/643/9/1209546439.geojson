@@ -1,0 +1,67 @@
+{
+  "id": 1209546439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.81653,17.6922,-64.81653,17.6922",
+    "geom:latitude":17.6922,
+    "geom:longitude":-64.81653,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"73900.0",
+    "gn:asciiname":"Bettys Hope",
+    "gn:country_code":"VI",
+    "gn:dem":16,
+    "gn:elevation":"12.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795276,
+    "gn:latitude":17.6922,
+    "gn:longitude":-64.81653,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bettys Hope",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bettyshope",
+        "Betty's Hope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795276
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"f6f8f71771e561439fa09f033f335c0b",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632169,
+            "locality_id":1209546439
+        }
+    ],
+    "wof:id":1209546439,
+    "wof:lastmodified":1537713653,
+    "wof:name":"Bettys Hope",
+    "wof:parent_id":85632169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.81653,
+    17.6922,
+    -64.81653,
+    17.6922
+],
+  "geometry": {"coordinates":[-64.81653,17.6922],"type":"Point"}
+}

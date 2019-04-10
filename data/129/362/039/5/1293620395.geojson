@@ -1,0 +1,75 @@
+{
+  "id": 1293620395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.72875,17.72831,-64.72875,17.72831",
+    "geom:latitude":17.72831,
+    "geom:longitude":-64.72875,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"4600.0",
+    "gn:asciiname":"Annas Hope",
+    "gn:country_code":"VI",
+    "gn:dem":56,
+    "gn:elevation":"52.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795222,
+    "gn:latitude":17.72831,
+    "gn:longitude":-64.72875,
+    "gn:modification_date":"2015-03-26",
+    "gn:name":"Annas Hope",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Annahope",
+        "Annashaab",
+        "Anna's Hope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795222
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"37298acef37b13e6f8b619a0e972d012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1293620395,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1293620395,
+    "wof:lastmodified":1537713652,
+    "wof:name":"Annas Hope",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.72875,
+    17.72831,
+    -64.72875,
+    17.72831
+],
+  "geometry": {"coordinates":[-64.72875000000001,17.72831],"type":"Point"}
+}

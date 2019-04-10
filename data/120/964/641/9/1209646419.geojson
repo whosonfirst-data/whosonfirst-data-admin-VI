@@ -1,0 +1,66 @@
+{
+  "id": 1209646419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.8007,17.74581,-64.8007,17.74581",
+    "geom:latitude":17.74581,
+    "geom:longitude":-64.8007,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"59500.0",
+    "gn:asciiname":"Mount Pleasant",
+    "gn:country_code":"VI",
+    "gn:dem":78,
+    "gn:elevation":"70.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4796221,
+    "gn:latitude":17.74581,
+    "gn:longitude":-64.8007,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mount Pleasant",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yesba Hill"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4796221
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"371f7e354e903fca08d5fab053d9a279",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632169,
+            "locality_id":1209646419
+        }
+    ],
+    "wof:id":1209646419,
+    "wof:lastmodified":1537713656,
+    "wof:name":"Mount Pleasant",
+    "wof:parent_id":85632169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.8007,
+    17.74581000000001,
+    -64.8007,
+    17.74581000000001
+],
+  "geometry": {"coordinates":[-64.80070000000001,17.74581000000001],"type":"Point"}
+}

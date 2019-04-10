@@ -1,0 +1,94 @@
+{
+  "id": 1326864235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.74698,17.72751,-64.74698,17.72751",
+    "geom:latitude":17.72751,
+    "geom:longitude":-64.74698,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"73900.0",
+    "gn:asciiname":"Saint Croix",
+    "gn:country_code":"VI",
+    "gn:dem":42,
+    "gn:elevation":"87.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":4796512,
+    "gn:latitude":17.72751,
+    "gn:longitude":-64.74698,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Saint Croix",
+    "gn:population":50601,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "St Croix"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Cruz"
+    ],
+    "name:und_x_variant":[
+        "Cibuguiera",
+        "Ay Ay",
+        "The Quiet Virgin",
+        "Sancta Crux",
+        "Ayay",
+        "L'Isle de Sainte Croix",
+        "Cibuquiera",
+        "Sanct Croix",
+        "Eylandet Saint Croix",
+        "Sainte Croix",
+        "Agay",
+        "Ay-Ay"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4796512,
+        "wk:page":"Saint_Croix%2C_U.S._Virgin_Islands"
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"b590fa54dd5d732fafec44e4a0bcf5ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1326864235,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1326864235,
+    "wof:lastmodified":1537713656,
+    "wof:name":"Saint Croix",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:population":50601,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.74698000000001,
+    17.72751000000001,
+    -64.74698000000001,
+    17.72751000000001
+],
+  "geometry": {"coordinates":[-64.74698000000001,17.72751000000001],"type":"Point"}
+}

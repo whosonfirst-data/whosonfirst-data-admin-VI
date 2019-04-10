@@ -1,0 +1,70 @@
+{
+  "id": 1310535739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.72243,17.73123,-64.72243,17.73123",
+    "geom:latitude":17.73123,
+    "geom:longitude":-64.72243,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"4600.0",
+    "gn:asciiname":"Grange",
+    "gn:country_code":"VI",
+    "gn:dem":61,
+    "gn:elevation":"59.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795815,
+    "gn:latitude":17.73123,
+    "gn:longitude":-64.72243,
+    "gn:modification_date":"2015-03-26",
+    "gn:name":"Grange",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795815
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"aa87265ad0b485cdf0295487cf9fed5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1310535739,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1310535739,
+    "wof:lastmodified":1536872281,
+    "wof:name":"Grange",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.72243,
+    17.73123,
+    -64.72243,
+    17.73123
+],
+  "geometry": {"coordinates":[-64.72243,17.73123],"type":"Point"}
+}

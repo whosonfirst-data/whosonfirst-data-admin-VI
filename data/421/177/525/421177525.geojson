@@ -1,0 +1,91 @@
+{
+  "id": 421177525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.82766,17.7228,-64.82766,17.7228",
+    "geom:latitude":17.7228,
+    "geom:longitude":-64.82766,
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Grove Place"
+    ],
+    "name:eng_x_preferred":[
+        "Grove Place"
+    ],
+    "name:pol_x_preferred":[
+        "Grove Place"
+    ],
+    "name:unk_x_variant":[
+        "Grove Place CDP"
+    ],
+    "qs:gn_country":"VI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":7267931,
+    "qs:gn_pop":0,
+    "qs:name":"Grove Place",
+    "qs:name_adm0":"US Virgin Islands",
+    "qs:name_adm1":"Saint Croix Island",
+    "qs:photos":85,
+    "qs:photos_1k":17,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":85,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1341627,
+    "qs:woe_adm0":23424985,
+    "qs:woe_id":329717,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":806,
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7267931,
+        "gp:id":329717,
+        "qs:id":1341627,
+        "wd:id":"Q5611438"
+    },
+    "wof:country":"VI",
+    "wof:created":1459009147,
+    "wof:geomhash":"4abd9fee89e6aaba9c96c82d7a6d0c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":421177525,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":421177525,
+    "wof:lastmodified":1527716486,
+    "wof:name":"Grove Place",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.82766,
+    17.7228,
+    -64.82766,
+    17.7228
+],
+  "geometry": {"coordinates":[-64.82765999999999,17.7228],"type":"Point"}
+}

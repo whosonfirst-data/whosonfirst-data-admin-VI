@@ -1,0 +1,75 @@
+{
+  "id": 1343994469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.84015,17.72803,-64.84015,17.72803",
+    "geom:latitude":17.72803,
+    "geom:longitude":-64.84015,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"62200.0",
+    "gn:asciiname":"Allandale",
+    "gn:country_code":"VI",
+    "gn:dem":110,
+    "gn:elevation":"97.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795183,
+    "gn:latitude":17.72803,
+    "gn:longitude":-64.84015,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Allandale",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Allendale",
+        "August Pentheny's Plantage",
+        "Bog of Allen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795183
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"213e81e8596898293f747666a88da5a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1343994469,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1343994469,
+    "wof:lastmodified":1537713652,
+    "wof:name":"Allandale",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.84015,
+    17.72803,
+    -64.84015,
+    17.72803
+],
+  "geometry": {"coordinates":[-64.84014999999999,17.72803],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 421204169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.68236,17.75525,-64.68236,17.75525",
+    "geom:latitude":17.75525,
+    "geom:longitude":-64.68236,
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Shoys"
+    ],
+    "name:eng_x_preferred":[
+        "Shoys"
+    ],
+    "qs:gn_country":"VI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":4796609,
+    "qs:gn_pop":0,
+    "qs:name":"Shoys",
+    "qs:name_adm0":"US Virgin Islands",
+    "qs:name_adm1":"Saint Croix Island",
+    "qs:photos":277,
+    "qs:photos_1k":56,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":277,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":238577,
+    "qs:woe_adm0":23424985,
+    "qs:woe_id":329809,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632169,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4796609,
+        "gp:id":329809,
+        "qs:id":238577,
+        "wd:id":"Q7503332"
+    },
+    "wof:country":"VI",
+    "wof:created":1459010175,
+    "wof:geomhash":"efa0d8fba82edac86e8749970c2ebf25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":421204169,
+            "region_id":-1
+        }
+    ],
+    "wof:id":421204169,
+    "wof:lastmodified":1514502512,
+    "wof:name":"Shoys",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.68236,
+    17.75525,
+    -64.68236,
+    17.75525
+],
+  "geometry": {"coordinates":[-64.68236,17.75525],"type":"Point"}
+}

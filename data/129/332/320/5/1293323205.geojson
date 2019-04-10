@@ -1,0 +1,70 @@
+{
+  "id": 1293323205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.75403,17.73053,-64.75403,17.73053",
+    "geom:latitude":17.73053,
+    "geom:longitude":-64.75403,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"71200.0",
+    "gn:asciiname":"Diamond",
+    "gn:country_code":"VI",
+    "gn:dem":51,
+    "gn:elevation":"43.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795605,
+    "gn:latitude":17.73053,
+    "gn:longitude":-64.75403,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Diamond",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795605
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"4a44df8a03d8fd3b5409c1a5d594e84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1293323205,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1293323205,
+    "wof:lastmodified":1537022971,
+    "wof:name":"Diamond",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.75403,
+    17.73052999999999,
+    -64.75403,
+    17.73052999999999
+],
+  "geometry": {"coordinates":[-64.75403,17.73052999999999],"type":"Point"}
+}

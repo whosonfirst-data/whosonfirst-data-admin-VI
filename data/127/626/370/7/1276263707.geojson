@@ -1,0 +1,70 @@
+{
+  "id": 1276263707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.84653,17.71942,-64.84653,17.71942",
+    "geom:latitude":17.71942,
+    "geom:longitude":-64.84653,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"62200.0",
+    "gn:asciiname":"Cane Valley",
+    "gn:country_code":"VI",
+    "gn:dem":91,
+    "gn:elevation":"83.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795410,
+    "gn:latitude":17.71942,
+    "gn:longitude":-64.84653,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Cane Valley",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795410
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"3a13ccbc07dfc9868acd4cd570e7cb2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1276263707,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1276263707,
+    "wof:lastmodified":1536870893,
+    "wof:name":"Cane Valley",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.84653,
+    17.71942,
+    -64.84653,
+    17.71942
+],
+  "geometry": {"coordinates":[-64.84653,17.71942],"type":"Point"}
+}

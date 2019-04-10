@@ -1,0 +1,63 @@
+{
+  "id": 1209351397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.83209,17.73109,-64.83209,17.73109",
+    "geom:latitude":17.73109,
+    "geom:longitude":-64.83209,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"62200.0",
+    "gn:asciiname":"Springfield",
+    "gn:country_code":"VI",
+    "gn:dem":112,
+    "gn:elevation":"88.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4796660,
+    "gn:latitude":17.73109,
+    "gn:longitude":-64.83209,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Springfield",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4796660
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"cb934d1299bcc5ab927e03f27c03ec06",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632169,
+            "locality_id":1209351397
+        }
+    ],
+    "wof:id":1209351397,
+    "wof:lastmodified":1536289729,
+    "wof:name":"Springfield",
+    "wof:parent_id":85632169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.83209000000001,
+    17.73109,
+    -64.83209000000001,
+    17.73109
+],
+  "geometry": {"coordinates":[-64.83209000000001,17.73109],"type":"Point"}
+}

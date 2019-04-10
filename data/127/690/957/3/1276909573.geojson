@@ -1,0 +1,70 @@
+{
+  "id": 1276909573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.87098,17.7122,-64.87098,17.7122",
+    "geom:latitude":17.7122,
+    "geom:longitude":-64.87098,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"62200.0",
+    "gn:asciiname":"Wheel of Fortune",
+    "gn:country_code":"VI",
+    "gn:dem":31,
+    "gn:elevation":"22.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4796843,
+    "gn:latitude":17.7122,
+    "gn:longitude":-64.87098,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wheel of Fortune",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4796843
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"896eae22bbb3996199f8ced9a08d4ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1276909573,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1276909573,
+    "wof:lastmodified":1537000725,
+    "wof:name":"Wheel of Fortune",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.87098,
+    17.7122,
+    -64.87098,
+    17.7122
+],
+  "geometry": {"coordinates":[-64.87098,17.7122],"type":"Point"}
+}

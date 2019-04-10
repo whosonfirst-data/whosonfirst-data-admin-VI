@@ -1,0 +1,70 @@
+{
+  "id": 1310536123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.70514,18.36023,-64.70514,18.36023",
+    "geom:latitude":18.36023,
+    "geom:longitude":-64.70514,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"15400.0",
+    "gn:asciiname":"Brownsbay (historical)",
+    "gn:country_code":"VI",
+    "gn:dem":10,
+    "gn:elevation":"6.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":4795356,
+    "gn:latitude":18.36023,
+    "gn:longitude":-64.70514,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Brownsbay (historical)",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680575,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795356
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"3e96c341de863247afef38779fcf576c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1310536123,
+            "region_id":85680575
+        }
+    ],
+    "wof:id":1310536123,
+    "wof:lastmodified":1536871670,
+    "wof:name":"Brownsbay (historical)",
+    "wof:parent_id":85680575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.70514,
+    18.36023,
+    -64.70514,
+    18.36023
+],
+  "geometry": {"coordinates":[-64.70514,18.36023],"type":"Point"}
+}

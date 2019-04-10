@@ -1,0 +1,70 @@
+{
+  "id": 1293134731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.69403,17.7447,-64.69403,17.7447",
+    "geom:latitude":17.7447,
+    "geom:longitude":-64.69403,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"4600.0",
+    "gn:asciiname":"Altona",
+    "gn:country_code":"VI",
+    "gn:dem":10,
+    "gn:elevation":"8.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795185,
+    "gn:latitude":17.7447,
+    "gn:longitude":-64.69403,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Altona",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795185
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"82a26bf010faba975a3005496fa60f8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1293134731,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1293134731,
+    "wof:lastmodified":1536798772,
+    "wof:name":"Altona",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.69403,
+    17.7447,
+    -64.69403,
+    17.7447
+],
+  "geometry": {"coordinates":[-64.69403,17.7447],"type":"Point"}
+}

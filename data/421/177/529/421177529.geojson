@@ -1,0 +1,80 @@
+{
+  "id": 421177529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.93153,18.35246,-64.93153,18.35246",
+    "geom:latitude":18.35246,
+    "geom:longitude":-64.93153,
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Ma Folie"
+    ],
+    "qs:gn_country":"VI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":4796115,
+    "qs:gn_pop":0,
+    "qs:name":"Mafolie",
+    "qs:name_adm0":"US Virgin Islands",
+    "qs:name_adm1":"Saint Thomas Island",
+    "qs:photos":72,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":72,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1341632,
+    "qs:woe_adm0":23424985,
+    "qs:woe_id":329754,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632169,
+        85680571,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4796115,
+        "gp:id":329754,
+        "qs:id":1341632
+    },
+    "wof:country":"VI",
+    "wof:created":1459009148,
+    "wof:geomhash":"9975b62bc1799ad01a775546a7321984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":421177529,
+            "region_id":85680571
+        }
+    ],
+    "wof:id":421177529,
+    "wof:lastmodified":1509998022,
+    "wof:name":"Mafolie",
+    "wof:parent_id":85680571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.93153,
+    18.35246,
+    -64.93153,
+    18.35246
+],
+  "geometry": {"coordinates":[-64.93153,18.35246],"type":"Point"}
+}

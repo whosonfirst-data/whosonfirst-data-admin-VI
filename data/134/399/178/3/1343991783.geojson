@@ -1,0 +1,70 @@
+{
+  "id": 1343991783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.76847,18.34134,-64.76847,18.34134",
+    "geom:latitude":18.34134,
+    "geom:longitude":-64.76847,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"15400.0",
+    "gn:asciiname":"Adrian",
+    "gn:country_code":"VI",
+    "gn:dem":194,
+    "gn:elevation":"180.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795163,
+    "gn:latitude":18.34134,
+    "gn:longitude":-64.76847,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Adrian",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680575,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795163
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"88dfb94412b8da198805e9656748cc44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1343991783,
+            "region_id":85680575
+        }
+    ],
+    "wof:id":1343991783,
+    "wof:lastmodified":1536974339,
+    "wof:name":"Adrian",
+    "wof:parent_id":85680575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.76847,
+    18.34134,
+    -64.76847,
+    18.34134
+],
+  "geometry": {"coordinates":[-64.76846999999999,18.34134],"type":"Point"}
+}

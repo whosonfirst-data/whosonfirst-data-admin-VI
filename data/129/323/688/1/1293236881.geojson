@@ -1,0 +1,69 @@
+{
+  "id": 1293236881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.60069,17.75775,-64.60069,17.75775",
+    "geom:latitude":17.75775,
+    "geom:longitude":-64.60069,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Southgate",
+    "gn:country_code":"VI",
+    "gn:dem":44,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4796640,
+    "gn:latitude":17.75775,
+    "gn:longitude":-64.60069,
+    "gn:modification_date":"2010-08-27",
+    "gn:name":"Southgate",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4796640
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"9af189bb5eb679ce7e4066c82d7046bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1293236881,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1293236881,
+    "wof:lastmodified":1536651175,
+    "wof:name":"Southgate",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.60069,
+    17.75775,
+    -64.60069,
+    17.75775
+],
+  "geometry": {"coordinates":[-64.60069,17.75775],"type":"Point"}
+}

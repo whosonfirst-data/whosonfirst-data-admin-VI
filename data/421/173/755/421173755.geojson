@@ -1,0 +1,93 @@
+{
+  "id": 421173755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.86181,18.32218,-64.86181,18.32218",
+    "geom:latitude":18.32218,
+    "geom:longitude":-64.86181,
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Benner"
+    ],
+    "name:fra_x_preferred":[
+        "Benner"
+    ],
+    "name:por_x_preferred":[
+        "Benner"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043d\u043d\u0435\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Benders"
+    ],
+    "qs:gn_country":"VI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":4795261,
+    "qs:gn_pop":0,
+    "qs:name":"Benner",
+    "qs:name_adm0":"US Virgin Islands",
+    "qs:name_adm1":"Saint Thomas Island",
+    "qs:photos":155,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":155,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":298262,
+    "qs:woe_adm0":23424985,
+    "qs:woe_id":329638,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        85632169,
+        85680571,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795261,
+        "gp:id":329638,
+        "qs:id":298262
+    },
+    "wof:country":"VI",
+    "wof:created":1459009005,
+    "wof:geomhash":"52896ccfa27ddfabfffa525d21690f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":421173755,
+            "region_id":85680571
+        }
+    ],
+    "wof:id":421173755,
+    "wof:lastmodified":1527716253,
+    "wof:name":"Benner",
+    "wof:parent_id":85680571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.86181,
+    18.32218,
+    -64.86181,
+    18.32218
+],
+  "geometry": {"coordinates":[-64.86181000000001,18.32218],"type":"Point"}
+}

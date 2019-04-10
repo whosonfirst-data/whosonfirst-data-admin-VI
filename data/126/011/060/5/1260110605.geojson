@@ -1,0 +1,69 @@
+{
+  "id": 1260110605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.61708,17.73608,-64.61708,17.73608",
+    "geom:latitude":17.73608,
+    "geom:longitude":-64.61708,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"31600.0",
+    "gn:asciiname":"Madame Carty",
+    "gn:country_code":"VI",
+    "gn:dem":12,
+    "gn:elevation":"8.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4796112,
+    "gn:latitude":17.73608,
+    "gn:longitude":-64.61708,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Madame Carty",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4796112
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"da83d2a77217dfa29bc40e471b013722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1260110605,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260110605,
+    "wof:lastmodified":1536949440,
+    "wof:name":"Madame Carty",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.61708,
+    17.73607999999999,
+    -64.61708,
+    17.73607999999999
+],
+  "geometry": {"coordinates":[-64.61708,17.73607999999999],"type":"Point"}
+}

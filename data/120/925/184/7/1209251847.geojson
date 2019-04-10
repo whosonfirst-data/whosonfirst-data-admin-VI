@@ -1,0 +1,63 @@
+{
+  "id": 1209251847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.94181,18.34746,-64.94181,18.34746",
+    "geom:latitude":18.34746,
+    "geom:longitude":-64.94181,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"61300.0",
+    "gn:asciiname":"Solberg",
+    "gn:country_code":"VI",
+    "gn:dem":185,
+    "gn:elevation":"186.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4796630,
+    "gn:latitude":18.34746,
+    "gn:longitude":-64.94181,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Solberg",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4796630
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"eb8eefa22af932fa1b526db83dc5f7d4",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632169,
+            "locality_id":1209251847
+        }
+    ],
+    "wof:id":1209251847,
+    "wof:lastmodified":1536292980,
+    "wof:name":"Solberg",
+    "wof:parent_id":85632169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.94181,
+    18.34746,
+    -64.94181,
+    18.34746
+],
+  "geometry": {"coordinates":[-64.94181,18.34746],"type":"Point"}
+}

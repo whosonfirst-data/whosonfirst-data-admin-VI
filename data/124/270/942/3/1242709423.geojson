@@ -1,0 +1,73 @@
+{
+  "id": 1242709423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.81015,17.77164,-64.81015,17.77164",
+    "geom:latitude":17.77164,
+    "geom:longitude":-64.81015,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"59500.0",
+    "gn:asciiname":"Canebay",
+    "gn:country_code":"VI",
+    "gn:dem":15,
+    "gn:elevation":"9.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795411,
+    "gn:latitude":17.77164,
+    "gn:longitude":-64.81015,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Canebay",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cane Bay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795411
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"5b1f22252cab1549a81a1cf63fb8926f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1242709423,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1242709423,
+    "wof:lastmodified":1537713653,
+    "wof:name":"Canebay",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.81015,
+    17.77163999999999,
+    -64.81015,
+    17.77163999999999
+],
+  "geometry": {"coordinates":[-64.81014999999999,17.77163999999999],"type":"Point"}
+}

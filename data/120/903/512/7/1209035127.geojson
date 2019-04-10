@@ -1,0 +1,63 @@
+{
+  "id": 1209035127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.8357,17.71859,-64.8357,17.71859",
+    "geom:latitude":17.71859,
+    "geom:longitude":-64.8357,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"62200.0",
+    "gn:asciiname":"Hope",
+    "gn:country_code":"VI",
+    "gn:dem":68,
+    "gn:elevation":"64.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795915,
+    "gn:latitude":17.71859,
+    "gn:longitude":-64.8357,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hope",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795915
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"4108e32dcc9409bc4581eefd56a78896",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632169,
+            "locality_id":1209035127
+        }
+    ],
+    "wof:id":1209035127,
+    "wof:lastmodified":1536299725,
+    "wof:name":"Hope",
+    "wof:parent_id":85632169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.8357,
+    17.71859,
+    -64.8357,
+    17.71859
+],
+  "geometry": {"coordinates":[-64.8357,17.71859],"type":"Point"}
+}

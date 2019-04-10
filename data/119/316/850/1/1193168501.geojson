@@ -1,0 +1,70 @@
+{
+  "id": 1193168501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.85126,17.71497,-64.85126,17.71497",
+    "geom:latitude":17.71497,
+    "geom:longitude":-64.85126,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"62200.0",
+    "gn:asciiname":"Robe Hill",
+    "gn:country_code":"VI",
+    "gn:dem":102,
+    "gn:elevation":"89.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4796475,
+    "gn:latitude":17.71497,
+    "gn:longitude":-64.85126,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Robe Hill",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4796475
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"99f6533dc722c6392c12f937d68b6197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1193168501,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1193168501,
+    "wof:lastmodified":1536383051,
+    "wof:name":"Robe Hill",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.85126,
+    17.71497,
+    -64.85126,
+    17.71497
+],
+  "geometry": {"coordinates":[-64.85126,17.71497],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243297695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.74709,17.76358,-64.74709,17.76358",
+    "geom:latitude":17.76358,
+    "geom:longitude":-64.74709,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"71200.0",
+    "gn:asciiname":"Saint John",
+    "gn:country_code":"VI",
+    "gn:dem":43,
+    "gn:elevation":"33.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4796526,
+    "gn:latitude":17.76358,
+    "gn:longitude":-64.74709,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Saint John",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4796526
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"e0fb4f9595a90d9fddf58543aa6872d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1243297695,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1243297695,
+    "wof:lastmodified":1537019128,
+    "wof:name":"Saint John",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.74709,
+    17.76357999999999,
+    -64.74709,
+    17.76357999999999
+],
+  "geometry": {"coordinates":[-64.74709,17.76357999999999],"type":"Point"}
+}

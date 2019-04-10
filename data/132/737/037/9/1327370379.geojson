@@ -1,0 +1,73 @@
+{
+  "id": 1327370379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.72153,18.34718,-64.72153,18.34718",
+    "geom:latitude":18.34718,
+    "geom:longitude":-64.72153,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"27100.0",
+    "gn:asciiname":"Carolina",
+    "gn:country_code":"VI",
+    "gn:dem":23,
+    "gn:elevation":"17.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795443,
+    "gn:latitude":18.34718,
+    "gn:longitude":-64.72153,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Carolina",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caroline"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680575,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795443
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"0427e4e3dc8ef7e32f8b119af6e40e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1327370379,
+            "region_id":85680575
+        }
+    ],
+    "wof:id":1327370379,
+    "wof:lastmodified":1537713654,
+    "wof:name":"Carolina",
+    "wof:parent_id":85680575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.72153,
+    18.34718,
+    -64.72153,
+    18.34718
+],
+  "geometry": {"coordinates":[-64.72153,18.34718],"type":"Point"}
+}

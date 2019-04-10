@@ -1,0 +1,318 @@
+{
+  "id": 1125800103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.96156,18.33672,-64.96156,18.33672",
+    "geom:latitude":18.33672,
+    "geom:longitude":-64.96156,
+    "gn:gn_country":"VI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"VI",
+    "lbl:latitude":18.33672,
+    "lbl:longitude":-64.96156,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:alb_x_preferred":[
+        "Sharlot Amalie"
+    ],
+    "name:ara_x_preferred":[
+        "\u0634\u0627\u0631\u0644\u0648\u062a \u0623\u0645\u0627\u0644\u064a"
+    ],
+    "name:arm_x_preferred":[
+        "\u0547\u0561\u0580\u056c\u0578\u057f\u0565 \u0531\u0574\u0561\u056c\u056b\u0565"
+    ],
+    "name:ast_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:aze_x_preferred":[
+        "\u015earlotta Amaliya"
+    ],
+    "name:baq_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:bel_x_preferred":[
+        "\u0428\u0430\u0440\u043b\u043e\u0442\u0430-\u0410\u043c\u0430\u043b\u0456\u044f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09be\u09b0\u09cd\u09b2\u099f \u0985\u09cd\u09af\u09be\u09ae\u09c7\u09b2\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bos_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:bre_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0430\u0440\u043b\u043e\u0442 \u0410\u043c\u0430\u043b\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:chi_x_preferred":[
+        "\u590f\u6d1b\u7279\u963f\u9a6c\u5229\u4e9a"
+    ],
+    "name:cor_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:cze_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:dan_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:dut_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:eng_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:epo_x_preferred":[
+        "\u0108arlotamalio"
+    ],
+    "name:est_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:fao_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:fin_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:fre_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e8\u10d0\u10e0\u10da\u10dd\u10e2\u10d0-\u10d0\u10db\u10d0\u10da\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:glg_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03bb\u03cc\u03c4 \u0391\u03bc\u03b1\u03bb\u03af"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab6\u0ac7\u0ab0\u0acd\u0ab2\u0acb\u0a9f \u0a85\u0aae\u0ab2\u0abf\u0aaf\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d0\u05e8\u05dc\u05d5\u05d8 \u05d0\u05de\u05d0\u05dc\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0936\u093e\u0930\u094d\u0932\u094b\u091f \u0905\u092e\u093e\u0932\u0940"
+    ],
+    "name:hrv_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:hun_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:ice_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:ido_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:ind_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:ita_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8\u30fb\u30a2\u30de\u30ea\u30fc"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb7\u0cbe\u0cb0\u0ccd\u0cb2\u0cc6\u0c9f\u0ccd \u0c85\u0cae\u0cc6\u0cb2\u0cbf\u0caf\u0cbe"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0430-\u0410\u043c\u0430\u043b\u0438\u044f"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ec\ub7ff\uc544\ub9d0\ub9ac\uc5d0"
+    ],
+    "name:lav_x_preferred":[
+        "\u0160arlote Am\u0101lija"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160arlot\u0117 Amalija"
+    ],
+    "name:mac_x_preferred":[
+        "\u0428\u0430\u0440\u043b\u043e\u0442\u0430 \u0410\u043c\u0430\u043b\u0438\u0458\u0430"
+    ],
+    "name:mar_x_preferred":[
+        "\u0936\u093e\u0930\u094d\u0932\u091f \u0906\u092e\u0947\u0932\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:mon_x_preferred":[
+        "\u0428\u0430\u0440\u043b\u043e\u0442\u0442 \u0410\u043c\u0430\u043b\u0438"
+    ],
+    "name:nno_x_preferred":[
+        "Charlotte Amalie p\u00e5 Dei amerikanske Jomfru\u00f8yane"
+    ],
+    "name:nob_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:oci_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u0627\u0631\u0644\u0648\u062a \u0622\u0645\u0627\u0644\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:por_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:rum_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0430-\u0410\u043c\u0430\u043b\u0438\u044f"
+    ],
+    "name:sco_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da0\u0dcf\u0dbd\u0da7\u0dca \u0d85\u0db8\u0dcf\u0dbd\u0dd2\u0dba\u0dcf"
+    ],
+    "name:slo_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:slv_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:spa_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0430\u0440\u043b\u043e\u0442\u0430 \u0410\u043c\u0430\u043b\u0438\u0458\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:swe_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0bb0\u0bcd\u0bb2\u0bca\u0b9f\u0bcd \u0b85\u0bae\u0bbe\u0bb2\u0bc0"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c37\u0c3e\u0c3e\u0c30\u0c4d\u0c32\u0c4b\u0c1f\u0c4d \u0c05\u0c2e\u0c47\u0c32\u0c40"
+    ],
+    "name:tgl_x_preferred":[
+        "Lungsod ng Charlotte Amalie"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e32\u0e23\u0e4c\u0e25\u0e2d\u0e15\u0e15\u0e4c\u0e2d\u0e30\u0e21\u0e32\u0e25\u0e35"
+    ],
+    "name:tuk_x_preferred":[
+        "\u015earlotta Ameli"
+    ],
+    "name:tur_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0430-\u0410\u043c\u0430\u043b\u0456\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0627\u0631\u0644\u0679 \u0627\u06cc\u0645\u0644\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Sharlot Amali"
+    ],
+    "name:vie_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:war_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:yor_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:yue_x_preferred":[
+        "\u838e\u6a02\u963f\u99ac\u5229"
+    ],
+    "qs_pg:aaroncc":"VI",
+    "qs_pg:gn_country":"VI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7267924,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Charlotte Amalie",
+    "qs_pg:name_adm0":"US Virgin Islands",
+    "qs_pg:name_adm1":"Saint Thomas Island",
+    "qs_pg:photos":4987,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":22,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":4987,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":489403,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424985,
+    "qs_pg:woe_id":329667,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424985,
+    "woe:name_adm0":"US Virgin Islands",
+    "woe:name_adm1":"Saint Thomas Island",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632169,
+        85680571,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7267924,
+        "gp:id":329667,
+        "qs_pg:id":489403,
+        "wd:id":"Q51681"
+    },
+    "wof:country":"VI",
+    "wof:created":1497291223,
+    "wof:geomhash":"2e7129acb75b1b30b28de9cafb2e5fd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1125800103,
+            "region_id":85680571
+        }
+    ],
+    "wof:id":1125800103,
+    "wof:lastmodified":1514502508,
+    "wof:name":"Charlotte Amalie",
+    "wof:parent_id":85680571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.96156,
+    18.33672,
+    -64.96156,
+    18.33672
+],
+  "geometry": {"coordinates":[-64.96156000000001,18.33672],"type":"Point"}
+}

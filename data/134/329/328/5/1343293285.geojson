@@ -1,0 +1,73 @@
+{
+  "id": 1343293285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.67736,17.7172,-64.67736,17.7172",
+    "geom:latitude":17.7172,
+    "geom:longitude":-64.67736,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"4600.0",
+    "gn:asciiname":"Nugent",
+    "gn:country_code":"VI",
+    "gn:dem":43,
+    "gn:elevation":"39.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4796291,
+    "gn:latitude":17.7172,
+    "gn:longitude":-64.67736,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nugent",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Castle Nugent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4796291
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"0815f2e4254d266bc87d663b689f42b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1343293285,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1343293285,
+    "wof:lastmodified":1537713656,
+    "wof:name":"Nugent",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.67736,
+    17.7172,
+    -64.67736,
+    17.7172
+],
+  "geometry": {"coordinates":[-64.67735999999999,17.7172],"type":"Point"}
+}

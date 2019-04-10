@@ -1,0 +1,73 @@
+{
+  "id": 1226681155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.78042,17.73081,-64.78042,17.73081",
+    "geom:latitude":17.73081,
+    "geom:longitude":-64.78042,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"59500.0",
+    "gn:asciiname":"Slob",
+    "gn:country_code":"VI",
+    "gn:dem":55,
+    "gn:elevation":"53.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4796621,
+    "gn:latitude":17.73081,
+    "gn:longitude":-64.78042,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Slob",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Body Slob"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4796621
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"af00193063bb5e420143c73ec6d01812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1226681155,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1226681155,
+    "wof:lastmodified":1537713657,
+    "wof:name":"Slob",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.78041999999999,
+    17.73081,
+    -64.78041999999999,
+    17.73081
+],
+  "geometry": {"coordinates":[-64.78041999999999,17.73081],"type":"Point"}
+}

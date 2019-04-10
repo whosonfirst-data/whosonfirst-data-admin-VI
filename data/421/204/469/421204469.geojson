@@ -1,0 +1,79 @@
+{
+  "id": 421204469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.70014,18.35634,-64.70014,18.35634",
+    "geom:latitude":18.35634,
+    "geom:longitude":-64.70014,
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"VI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":4795898,
+    "qs:gn_pop":0,
+    "qs:name":"Hermitage",
+    "qs:name_adm0":"US Virgin Islands",
+    "qs:name_adm1":"Saint John Island",
+    "qs:photos":302,
+    "qs:photos_1k":61,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":302,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":240953,
+    "qs:woe_adm0":23424985,
+    "qs:woe_id":329720,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":767,
+    "wof:belongsto":[
+        85632169,
+        85680575,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795898,
+        "gp:id":329720,
+        "qs:id":240953,
+        "wd:id":"Q246286"
+    },
+    "wof:country":"VI",
+    "wof:created":1459010187,
+    "wof:geomhash":"3917d7235f865718df1027a29f87bdda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":421204469,
+            "region_id":85680575
+        }
+    ],
+    "wof:id":421204469,
+    "wof:lastmodified":1527716186,
+    "wof:name":"Hermitage",
+    "wof:parent_id":85680575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.70014,
+    18.35634,
+    -64.70014,
+    18.35634
+],
+  "geometry": {"coordinates":[-64.70014,18.35634],"type":"Point"}
+}

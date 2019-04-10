@@ -1,0 +1,74 @@
+{
+  "id": 1293037231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.71791,18.34801,-64.71791,18.34801",
+    "geom:latitude":18.34801,
+    "geom:longitude":-64.71791,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"27100.0",
+    "gn:asciiname":"Emmaus",
+    "gn:country_code":"VI",
+    "gn:dem":14,
+    "gn:elevation":"6.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795664,
+    "gn:latitude":18.34801,
+    "gn:longitude":-64.71791,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Emmaus",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Emmius",
+        "Emaus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680575,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795664
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"02febaa2bc695ea6b66331b01614503a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1293037231,
+            "region_id":85680575
+        }
+    ],
+    "wof:id":1293037231,
+    "wof:lastmodified":1537713654,
+    "wof:name":"Emmaus",
+    "wof:parent_id":85680575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.71791,
+    18.34801,
+    -64.71791,
+    18.34801
+],
+  "geometry": {"coordinates":[-64.71791,18.34801],"type":"Point"}
+}

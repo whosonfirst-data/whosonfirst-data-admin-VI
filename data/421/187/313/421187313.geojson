@@ -1,0 +1,84 @@
+{
+  "id": 421187313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.87236,18.34579,-64.87236,18.34579",
+    "geom:latitude":18.34579,
+    "geom:longitude":-64.87236,
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Frydendal"
+    ],
+    "name:eng_x_preferred":[
+        "Frydendal"
+    ],
+    "qs:gn_country":"VI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":4795781,
+    "qs:gn_pop":0,
+    "qs:name":"Frydendal",
+    "qs:name_adm0":"US Virgin Islands",
+    "qs:name_adm1":"Saint Thomas Island",
+    "qs:photos":791,
+    "qs:photos_1k":160,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":791,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082683,
+    "qs:woe_adm0":23424985,
+    "qs:woe_id":329709,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632169,
+        85680571,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795781,
+        "gp:id":329709,
+        "qs:id":1082683,
+        "wd:id":"Q5506577"
+    },
+    "wof:country":"VI",
+    "wof:created":1459009508,
+    "wof:geomhash":"0c45aa860ae880beab8f16d1cc046deb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":421187313,
+            "region_id":85680571
+        }
+    ],
+    "wof:id":421187313,
+    "wof:lastmodified":1514502510,
+    "wof:name":"Frydendal",
+    "wof:parent_id":85680571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.87236,
+    18.34579,
+    -64.87236,
+    18.34579
+],
+  "geometry": {"coordinates":[-64.87236,18.34579],"type":"Point"}
+}

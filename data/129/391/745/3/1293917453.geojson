@@ -1,0 +1,70 @@
+{
+  "id": 1293917453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.87931,17.70636,-64.87931,17.70636",
+    "geom:latitude":17.70636,
+    "geom:longitude":-64.87931,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"38800.0",
+    "gn:asciiname":"Two Brothers",
+    "gn:country_code":"VI",
+    "gn:dem":36,
+    "gn:elevation":"29.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4796742,
+    "gn:latitude":17.70636,
+    "gn:longitude":-64.87931,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Two Brothers",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4796742
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"f23f5aa0a7df3e70d57732b9d37e75ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1293917453,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1293917453,
+    "wof:lastmodified":1536664450,
+    "wof:name":"Two Brothers",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.87931,
+    17.70636,
+    -64.87931,
+    17.70636
+],
+  "geometry": {"coordinates":[-64.87931,17.70636],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293323565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.76876,17.75747,-64.76876,17.75747",
+    "geom:latitude":17.75747,
+    "geom:longitude":-64.76876,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"59500.0",
+    "gn:asciiname":"Concordia",
+    "gn:country_code":"VI",
+    "gn:dem":26,
+    "gn:elevation":"17.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795526,
+    "gn:latitude":17.75747,
+    "gn:longitude":-64.76876,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Concordia",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795526
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"9861382cb064923582a0ac105f270456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1293323565,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1293323565,
+    "wof:lastmodified":1537022468,
+    "wof:name":"Concordia",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.76876,
+    17.75747,
+    -64.76876,
+    17.75747
+],
+  "geometry": {"coordinates":[-64.76876,17.75747],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310341901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.71209,17.73997,-64.71209,17.73997",
+    "geom:latitude":17.73997,
+    "geom:longitude":-64.71209,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20800.0",
+    "gn:asciiname":"Fredensdal",
+    "gn:country_code":"VI",
+    "gn:dem":36,
+    "gn:elevation":"28.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795754,
+    "gn:latitude":17.73997,
+    "gn:longitude":-64.71209,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Fredensdal",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795754
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"b3c3d9ca95ccea7852012116dc917b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1310341901,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1310341901,
+    "wof:lastmodified":1536655396,
+    "wof:name":"Fredensdal",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.71209,
+    17.73997,
+    -64.71209,
+    17.73997
+],
+  "geometry": {"coordinates":[-64.71209,17.73997],"type":"Point"}
+}

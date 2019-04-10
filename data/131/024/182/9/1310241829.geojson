@@ -1,0 +1,70 @@
+{
+  "id": 1310241829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.75042,17.71247,-64.75042,17.71247",
+    "geom:latitude":17.71247,
+    "geom:longitude":-64.75042,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"73900.0",
+    "gn:asciiname":"Jerusalem and Figtree Hill",
+    "gn:country_code":"VI",
+    "gn:dem":14,
+    "gn:elevation":"11.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795946,
+    "gn:latitude":17.71247,
+    "gn:longitude":-64.75042,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jerusalem and Figtree Hill",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795946
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"2ccab76416be23da7688570f1080d689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1310241829,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1310241829,
+    "wof:lastmodified":1536799747,
+    "wof:name":"Jerusalem and Figtree Hill",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.75041999999999,
+    17.71247,
+    -64.75041999999999,
+    17.71247
+],
+  "geometry": {"coordinates":[-64.75041999999999,17.71247],"type":"Point"}
+}

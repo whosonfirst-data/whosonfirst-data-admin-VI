@@ -1,0 +1,70 @@
+{
+  "id": 1310436269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.92042,18.32523,-64.92042,18.32523",
+    "geom:latitude":18.32523,
+    "geom:longitude":-64.92042,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"74800.0",
+    "gn:asciiname":"Bellevue",
+    "gn:country_code":"VI",
+    "gn:dem":19,
+    "gn:elevation":"13.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795255,
+    "gn:latitude":18.32523,
+    "gn:longitude":-64.92042,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bellevue",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680571,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795255
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"f2fe27445818d48f631499dd081ded5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1310436269,
+            "region_id":85680571
+        }
+    ],
+    "wof:id":1310436269,
+    "wof:lastmodified":1537016229,
+    "wof:name":"Bellevue",
+    "wof:parent_id":85680571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.92042,
+    18.32523,
+    -64.92042,
+    18.32523
+],
+  "geometry": {"coordinates":[-64.92041999999999,18.32523],"type":"Point"}
+}

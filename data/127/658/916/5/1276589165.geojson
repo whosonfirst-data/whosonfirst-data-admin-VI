@@ -1,0 +1,70 @@
+{
+  "id": 1276589165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.71292,17.73608,-64.71292,17.73608",
+    "geom:latitude":17.73608,
+    "geom:longitude":-64.71292,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"4600.0",
+    "gn:asciiname":"Contentment",
+    "gn:country_code":"VI",
+    "gn:dem":85,
+    "gn:elevation":"86.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795544,
+    "gn:latitude":17.73608,
+    "gn:longitude":-64.71292,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Contentment",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795544
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"4b5cc983a084cbc2d24e18a067061248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1276589165,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1276589165,
+    "wof:lastmodified":1536934019,
+    "wof:name":"Contentment",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.71292,
+    17.73607999999999,
+    -64.71292,
+    17.73607999999999
+],
+  "geometry": {"coordinates":[-64.71292,17.73607999999999],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 421203803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.72041,18.36329,-64.72041,18.36329",
+    "geom:latitude":18.36329,
+    "geom:longitude":-64.72041,
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"VI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":4796025,
+    "qs:gn_pop":0,
+    "qs:name":"Leinster Bay",
+    "qs:name_adm0":"US Virgin Islands",
+    "qs:name_adm1":"Saint John Island",
+    "qs:photos":239,
+    "qs:photos_1k":48,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":239,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":235285,
+    "qs:woe_adm0":23424985,
+    "qs:woe_id":329742,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632169,
+        85680575,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4796025,
+        "gp:id":329742,
+        "qs:id":235285
+    },
+    "wof:country":"VI",
+    "wof:created":1459010164,
+    "wof:geomhash":"0f25a8fd6e1ca14f7e7ed107cf084a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":421203803,
+            "region_id":85680575
+        }
+    ],
+    "wof:id":421203803,
+    "wof:lastmodified":1509998023,
+    "wof:name":"Leinster Bay",
+    "wof:parent_id":85680575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.72041,
+    18.36329,
+    -64.72041,
+    18.36329
+],
+  "geometry": {"coordinates":[-64.72041,18.36329],"type":"Point"}
+}

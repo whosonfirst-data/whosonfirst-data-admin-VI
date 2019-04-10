@@ -1,0 +1,70 @@
+{
+  "id": 1344092861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.95598,18.3419,-64.95598,18.3419",
+    "geom:latitude":18.3419,
+    "geom:longitude":-64.95598,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"17200.0",
+    "gn:asciiname":"Contant",
+    "gn:country_code":"VI",
+    "gn:dem":103,
+    "gn:elevation":"104.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795540,
+    "gn:latitude":18.3419,
+    "gn:longitude":-64.95598,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Contant",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680571,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795540
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"a17550ffe6b0264877f607db10c5c3e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1344092861,
+            "region_id":85680571
+        }
+    ],
+    "wof:id":1344092861,
+    "wof:lastmodified":1536827878,
+    "wof:name":"Contant",
+    "wof:parent_id":85680571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.95598000000001,
+    18.3419,
+    -64.95598000000001,
+    18.3419
+],
+  "geometry": {"coordinates":[-64.95598000000001,18.3419],"type":"Point"}
+}

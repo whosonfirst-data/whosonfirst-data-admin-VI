@@ -1,0 +1,70 @@
+{
+  "id": 1360220653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.8782,18.32218,-64.8782,18.32218",
+    "geom:latitude":18.32218,
+    "geom:longitude":-64.8782,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"34300.0",
+    "gn:asciiname":"Nadir",
+    "gn:country_code":"VI",
+    "gn:dem":15,
+    "gn:elevation":"18.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4796252,
+    "gn:latitude":18.32218,
+    "gn:longitude":-64.8782,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nadir",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680571,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4796252
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"3c6d2d62e7429ab760efa8a38a515e20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1360220653,
+            "region_id":85680571
+        }
+    ],
+    "wof:id":1360220653,
+    "wof:lastmodified":1536749952,
+    "wof:name":"Nadir",
+    "wof:parent_id":85680571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.8782,
+    18.32218,
+    -64.8782,
+    18.32218
+],
+  "geometry": {"coordinates":[-64.87820000000001,18.32218],"type":"Point"}
+}

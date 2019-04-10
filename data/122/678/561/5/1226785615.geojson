@@ -1,0 +1,70 @@
+{
+  "id": 1226785615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.74054,17.72551,-64.74054,17.72551",
+    "geom:latitude":17.72551,
+    "geom:longitude":-64.74054,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"73900.0",
+    "gn:asciiname":"Peters Rest",
+    "gn:country_code":"VI",
+    "gn:dem":57,
+    "gn:elevation":"56.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4796362,
+    "gn:latitude":17.72551,
+    "gn:longitude":-64.74054,
+    "gn:modification_date":"2015-03-26",
+    "gn:name":"Peters Rest",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4796362
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"031e79e94cf1e1c27eb36328d6b4a6e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1226785615,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1226785615,
+    "wof:lastmodified":1536658167,
+    "wof:name":"Peters Rest",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.74054,
+    17.72551,
+    -64.74054,
+    17.72551
+],
+  "geometry": {"coordinates":[-64.74054,17.72551],"type":"Point"}
+}

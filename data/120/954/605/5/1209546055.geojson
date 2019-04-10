@@ -1,0 +1,67 @@
+{
+  "id": 1209546055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.77292,18.34134,-64.77292,18.34134",
+    "geom:latitude":18.34134,
+    "geom:longitude":-64.77292,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"15400.0",
+    "gn:asciiname":"Susannaberg",
+    "gn:country_code":"VI",
+    "gn:dem":200,
+    "gn:elevation":"191.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4796693,
+    "gn:latitude":18.34134,
+    "gn:longitude":-64.77292,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Susannaberg",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Susannasborg",
+        "Suzanneberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4796693
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"701f1ca680bc3000311957c6ba837b6e",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632169,
+            "locality_id":1209546055
+        }
+    ],
+    "wof:id":1209546055,
+    "wof:lastmodified":1537713657,
+    "wof:name":"Susannaberg",
+    "wof:parent_id":85632169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.77292,
+    18.34134,
+    -64.77292,
+    18.34134
+],
+  "geometry": {"coordinates":[-64.77292,18.34134],"type":"Point"}
+}

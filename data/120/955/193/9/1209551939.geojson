@@ -1,0 +1,69 @@
+{
+  "id": 1209551939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.74542,17.72331,-64.74542,17.72331",
+    "geom:latitude":17.72331,
+    "geom:longitude":-64.74542,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"73900.0",
+    "gn:asciiname":"Castle Coakley",
+    "gn:country_code":"VI",
+    "gn:dem":33,
+    "gn:elevation":"30.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795454,
+    "gn:latitude":17.72331,
+    "gn:longitude":-64.74542,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Castle Coakley",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Castle Oakley",
+        "Castle Coakly",
+        "Coakly Plantage",
+        "Castle Cookley"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795454
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"6ae4f23400cecbede99ea4f7ae2b99ab",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632169,
+            "locality_id":1209551939
+        }
+    ],
+    "wof:id":1209551939,
+    "wof:lastmodified":1537713654,
+    "wof:name":"Castle Coakley",
+    "wof:parent_id":85632169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.74542,
+    17.72331,
+    -64.74542,
+    17.72331
+],
+  "geometry": {"coordinates":[-64.74542,17.72331],"type":"Point"}
+}

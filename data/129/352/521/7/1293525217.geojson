@@ -1,0 +1,70 @@
+{
+  "id": 1293525217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.79209,17.71553,-64.79209,17.71553",
+    "geom:latitude":17.71553,
+    "geom:longitude":-64.79209,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"73900.0",
+    "gn:asciiname":"Upper Bethlehem",
+    "gn:country_code":"VI",
+    "gn:dem":33,
+    "gn:elevation":"24.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4046956,
+    "gn:latitude":17.71553,
+    "gn:longitude":-64.79209,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Upper Bethlehem",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4046956
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"bb3be526e29da299e1f8693693add34f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1293525217,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1293525217,
+    "wof:lastmodified":1536732891,
+    "wof:name":"Upper Bethlehem",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.79209,
+    17.71552999999999,
+    -64.79209,
+    17.71552999999999
+],
+  "geometry": {"coordinates":[-64.79209,17.71552999999999],"type":"Point"}
+}

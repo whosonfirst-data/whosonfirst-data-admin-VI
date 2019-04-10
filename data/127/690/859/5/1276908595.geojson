@@ -1,0 +1,73 @@
+{
+  "id": 1276908595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.79876,17.77636,-64.79876,17.77636",
+    "geom:latitude":17.77636,
+    "geom:longitude":-64.79876,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"59500.0",
+    "gn:asciiname":"Belvedere",
+    "gn:country_code":"VI",
+    "gn:dem":22,
+    "gn:elevation":"20.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795257,
+    "gn:latitude":17.77636,
+    "gn:longitude":-64.79876,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Belvedere",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belvidere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795257
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"8db7e2a622113536de1589f40285f880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1276908595,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1276908595,
+    "wof:lastmodified":1537713653,
+    "wof:name":"Belvedere",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.79876,
+    17.77636,
+    -64.79876,
+    17.77636
+],
+  "geometry": {"coordinates":[-64.79876,17.77636],"type":"Point"}
+}

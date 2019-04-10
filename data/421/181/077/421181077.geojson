@@ -1,0 +1,84 @@
+{
+  "id": 421181077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.81709,17.75386,-64.81709,17.75386",
+    "geom:latitude":17.75386,
+    "geom:longitude":-64.81709,
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Parasol"
+    ],
+    "name:eng_x_preferred":[
+        "Parasol"
+    ],
+    "qs:gn_country":"VI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":4796325,
+    "qs:gn_pop":0,
+    "qs:name":"Parasol",
+    "qs:name_adm0":"US Virgin Islands",
+    "qs:name_adm1":"Saint Croix Island",
+    "qs:photos":77,
+    "qs:photos_1k":16,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":77,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":475051,
+    "qs:woe_adm0":23424985,
+    "qs:woe_id":329782,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4796325,
+        "gp:id":329782,
+        "qs:id":475051,
+        "wd:id":"Q7135976"
+    },
+    "wof:country":"VI",
+    "wof:created":1459009284,
+    "wof:geomhash":"95e96444aece46ceb0ccdfda1758c5ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":421181077,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":421181077,
+    "wof:lastmodified":1514502512,
+    "wof:name":"Parasol",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.81709,
+    17.75386,
+    -64.81709,
+    17.75386
+],
+  "geometry": {"coordinates":[-64.81708999999999,17.75386],"type":"Point"}
+}

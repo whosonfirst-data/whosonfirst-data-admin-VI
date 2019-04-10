@@ -1,0 +1,70 @@
+{
+  "id": 1242909771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.78042,17.74608,-64.78042,17.74608",
+    "geom:latitude":17.74608,
+    "geom:longitude":-64.78042,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"59500.0",
+    "gn:asciiname":"Friedensfeld",
+    "gn:country_code":"VI",
+    "gn:dem":49,
+    "gn:elevation":"46.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4795774,
+    "gn:latitude":17.74608,
+    "gn:longitude":-64.78042,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Friedensfeld",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4795774
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"5324af40a35c56a199f38da33355b1a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1242909771,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":1242909771,
+    "wof:lastmodified":1537079053,
+    "wof:name":"Friedensfeld",
+    "wof:parent_id":85680579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.78041999999999,
+    17.74608,
+    -64.78041999999999,
+    17.74608
+],
+  "geometry": {"coordinates":[-64.78041999999999,17.74608],"type":"Point"}
+}

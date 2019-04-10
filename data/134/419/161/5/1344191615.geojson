@@ -1,0 +1,73 @@
+{
+  "id": 1344191615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.95654,18.3544,-64.95654,18.3544",
+    "geom:latitude":18.3544,
+    "geom:longitude":-64.95654,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"61300.0",
+    "gn:asciiname":"Resolution",
+    "gn:country_code":"VI",
+    "gn:dem":318,
+    "gn:elevation":"303.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4796465,
+    "gn:latitude":18.3544,
+    "gn:longitude":-64.95654,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Resolution",
+    "gn:population":0,
+    "gn:timezone":"America/St_Thomas",
+    "iso:country":"VI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonne Resolution"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632169,
+        85680571,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4796465
+    },
+    "wof:country":"VI",
+    "wof:geomhash":"60a3775315e24c945923ca7536260ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1344191615,
+            "region_id":85680571
+        }
+    ],
+    "wof:id":1344191615,
+    "wof:lastmodified":1537713656,
+    "wof:name":"Resolution",
+    "wof:parent_id":85680571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.95654,
+    18.3544,
+    -64.95654,
+    18.3544
+],
+  "geometry": {"coordinates":[-64.95654,18.3544],"type":"Point"}
+}
