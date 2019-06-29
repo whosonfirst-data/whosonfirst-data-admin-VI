@@ -13,10 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Frydendal"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Frydendal"
     ],
     "qs:gn_country":"VI",
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":421187313,
-    "wof:lastmodified":1514502510,
+    "wof:lastmodified":1561828817,
     "wof:name":"Frydendal",
     "wof:parent_id":85680571,
     "wof:placetype":"locality",

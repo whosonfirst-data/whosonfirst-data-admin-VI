@@ -13,10 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Shoys"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Shoys"
     ],
     "qs:gn_country":"VI",
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":421204169,
-    "wof:lastmodified":1514502512,
+    "wof:lastmodified":1561828817,
     "wof:name":"Shoys",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
