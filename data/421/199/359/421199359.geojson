@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Annaberg"
     ],
-    "name:dut_x_preferred":[
-        "Annaberg"
-    ],
     "name:eng_x_preferred":[
         "Annaberg"
     ],
@@ -99,7 +96,7 @@
         }
     ],
     "wof:id":421199359,
-    "wof:lastmodified":1527716414,
+    "wof:lastmodified":1561828817,
     "wof:name":"Annaberg",
     "wof:parent_id":85680579,
     "wof:placetype":"locality",

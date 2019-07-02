@@ -25,9 +25,6 @@
     "name:bam_x_preferred":[
         "Knight"
     ],
-    "name:baq_x_preferred":[
-        "Knight"
-    ],
     "name:bar_x_preferred":[
         "Knight"
     ],
@@ -37,16 +34,19 @@
     "name:cat_x_preferred":[
         "Knight"
     ],
+    "name:ces_x_preferred":[
+        "Knight"
+    ],
     "name:cos_x_preferred":[
         "Knight"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Knight"
     ],
     "name:dan_x_preferred":[
         "Knight"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Knight"
     ],
     "name:eng_x_preferred":[
@@ -58,22 +58,22 @@
     "name:est_x_preferred":[
         "Knight"
     ],
+    "name:eus_x_preferred":[
+        "Knight"
+    ],
     "name:fin_x_preferred":[
         "Knight"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Knight"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Knight"
     ],
     "name:frp_x_preferred":[
         "Knight"
     ],
     "name:fur_x_preferred":[
-        "Knight"
-    ],
-    "name:ger_x_preferred":[
         "Knight"
     ],
     "name:gla_x_preferred":[
@@ -133,19 +133,22 @@
     "name:ltz_x_preferred":[
         "Knight"
     ],
-    "name:may_x_preferred":[
-        "Knight"
-    ],
     "name:min_x_preferred":[
         "Knight"
     ],
     "name:mlg_x_preferred":[
         "Knight"
     ],
+    "name:msa_x_preferred":[
+        "Knight"
+    ],
     "name:nap_x_preferred":[
         "Knight"
     ],
     "name:nds_x_preferred":[
+        "Knight"
+    ],
+    "name:nld_x_preferred":[
         "Knight"
     ],
     "name:nno_x_preferred":[
@@ -184,7 +187,7 @@
     "name:roh_x_preferred":[
         "Knight"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Knight"
     ],
     "name:scn_x_preferred":[
@@ -193,7 +196,7 @@
     "name:sco_x_preferred":[
         "Knight"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Knight"
     ],
     "name:spa_x_preferred":[
@@ -224,9 +227,6 @@
         "Knight"
     ],
     "name:vol_x_preferred":[
-        "Knight"
-    ],
-    "name:wel_x_preferred":[
         "Knight"
     ],
     "name:wln_x_preferred":[
@@ -285,7 +285,7 @@
         }
     ],
     "wof:id":421183653,
-    "wof:lastmodified":1527717698,
+    "wof:lastmodified":1561828818,
     "wof:name":"Knight",
     "wof:parent_id":85680579,
     "wof:placetype":"locality",

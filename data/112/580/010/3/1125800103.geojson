@@ -21,23 +21,14 @@
     "name:afr_x_preferred":[
         "Charlotte Amalie"
     ],
-    "name:alb_x_preferred":[
-        "Sharlot Amalie"
-    ],
     "name:ara_x_preferred":[
         "\u0634\u0627\u0631\u0644\u0648\u062a \u0623\u0645\u0627\u0644\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u0547\u0561\u0580\u056c\u0578\u057f\u0565 \u0531\u0574\u0561\u056c\u056b\u0565"
     ],
     "name:ast_x_preferred":[
         "Charlotte Amalie"
     ],
     "name:aze_x_preferred":[
         "\u015earlotta Amaliya"
-    ],
-    "name:baq_x_preferred":[
-        "Charlotte Amalie"
     ],
     "name:bel_x_preferred":[
         "\u0428\u0430\u0440\u043b\u043e\u0442\u0430-\u0410\u043c\u0430\u043b\u0456\u044f"
@@ -57,20 +48,20 @@
     "name:cat_x_preferred":[
         "Charlotte Amalie"
     ],
-    "name:chi_x_preferred":[
-        "\u590f\u6d1b\u7279\u963f\u9a6c\u5229\u4e9a"
-    ],
-    "name:cor_x_preferred":[
+    "name:ces_x_preferred":[
         "Charlotte Amalie"
     ],
-    "name:cze_x_preferred":[
+    "name:cor_x_preferred":[
         "Charlotte Amalie"
     ],
     "name:dan_x_preferred":[
         "Charlotte Amalie"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Charlotte Amalie"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03bb\u03cc\u03c4 \u0391\u03bc\u03b1\u03bb\u03af"
     ],
     "name:eng_x_preferred":[
         "Charlotte Amalie"
@@ -81,26 +72,23 @@
     "name:est_x_preferred":[
         "Charlotte Amalie"
     ],
+    "name:eus_x_preferred":[
+        "Charlotte Amalie"
+    ],
     "name:fao_x_preferred":[
         "Charlotte Amalie"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0631\u0644\u0648\u062a \u0622\u0645\u0627\u0644\u06cc"
     ],
     "name:fin_x_preferred":[
         "Charlotte Amalie"
     ],
-    "name:fre_x_preferred":[
-        "Charlotte Amalie"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d0\u10e0\u10da\u10dd\u10e2\u10d0-\u10d0\u10db\u10d0\u10da\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Charlotte Amalie"
     ],
     "name:glg_x_preferred":[
         "Charlotte Amalie"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03c1\u03bb\u03cc\u03c4 \u0391\u03bc\u03b1\u03bb\u03af"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0ac7\u0ab0\u0acd\u0ab2\u0acb\u0a9f \u0a85\u0aae\u0ab2\u0abf\u0aaf\u0abe"
@@ -117,13 +105,16 @@
     "name:hun_x_preferred":[
         "Charlotte Amalie"
     ],
-    "name:ice_x_preferred":[
-        "Charlotte Amalie"
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u0580\u056c\u0578\u057f\u0565 \u0531\u0574\u0561\u056c\u056b\u0565"
     ],
     "name:ido_x_preferred":[
         "Charlotte Amalie"
     ],
     "name:ind_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:isl_x_preferred":[
         "Charlotte Amalie"
     ],
     "name:ita_x_preferred":[
@@ -134,6 +125,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb7\u0cbe\u0cb0\u0ccd\u0cb2\u0cc6\u0c9f\u0ccd \u0c85\u0cae\u0cc6\u0cb2\u0cbf\u0caf\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10e0\u10da\u10dd\u10e2\u10d0-\u10d0\u10db\u10d0\u10da\u10d8\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0430-\u0410\u043c\u0430\u043b\u0438\u044f"
@@ -147,17 +141,20 @@
     "name:lit_x_preferred":[
         "\u0160arlot\u0117 Amalija"
     ],
-    "name:mac_x_preferred":[
-        "\u0428\u0430\u0440\u043b\u043e\u0442\u0430 \u0410\u043c\u0430\u043b\u0438\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0936\u093e\u0930\u094d\u0932\u091f \u0906\u092e\u0947\u0932\u0940"
     ],
-    "name:may_x_preferred":[
-        "Charlotte Amalie"
+    "name:mkd_x_preferred":[
+        "\u0428\u0430\u0440\u043b\u043e\u0442\u0430 \u0410\u043c\u0430\u043b\u0438\u0458\u0430"
     ],
     "name:mon_x_preferred":[
         "\u0428\u0430\u0440\u043b\u043e\u0442\u0442 \u0410\u043c\u0430\u043b\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Charlotte Amalie"
+    ],
+    "name:nld_x_preferred":[
+        "Charlotte Amalie"
     ],
     "name:nno_x_preferred":[
         "Charlotte Amalie p\u00e5 Dei amerikanske Jomfru\u00f8yane"
@@ -168,16 +165,13 @@
     "name:oci_x_preferred":[
         "Charlotte Amalie"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0627\u0631\u0644\u0648\u062a \u0622\u0645\u0627\u0644\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Charlotte Amalie"
     ],
     "name:por_x_preferred":[
         "Charlotte Amalie"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Charlotte Amalie"
     ],
     "name:rus_x_preferred":[
@@ -189,7 +183,7 @@
     "name:sin_x_preferred":[
         "\u0da0\u0dcf\u0dbd\u0da7\u0dca \u0d85\u0db8\u0dcf\u0dbd\u0dd2\u0dba\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Charlotte Amalie"
     ],
     "name:slv_x_preferred":[
@@ -197,6 +191,9 @@
     ],
     "name:spa_x_preferred":[
         "Charlotte Amalie"
+    ],
+    "name:sqi_x_preferred":[
+        "Sharlot Amalie"
     ],
     "name:srp_x_preferred":[
         "\u0428\u0430\u0440\u043b\u043e\u0442\u0430 \u0410\u043c\u0430\u043b\u0438\u0458\u0430"
@@ -245,6 +242,9 @@
     ],
     "name:yue_x_preferred":[
         "\u838e\u6a02\u963f\u99ac\u5229"
+    ],
+    "name:zho_x_preferred":[
+        "\u590f\u6d1b\u7279\u963f\u9a6c\u5229\u4e9a"
     ],
     "qs_pg:aaroncc":"VI",
     "qs_pg:gn_country":"VI",
@@ -299,7 +299,7 @@
         }
     ],
     "wof:id":1125800103,
-    "wof:lastmodified":1514502508,
+    "wof:lastmodified":1561828818,
     "wof:name":"Charlotte Amalie",
     "wof:parent_id":85680571,
     "wof:placetype":"locality",
