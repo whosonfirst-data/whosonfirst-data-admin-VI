@@ -26,12 +26,18 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Saint Croix Island"
+    ],
     "name:eng_x_preferred":[
         "Saint Croix Island"
     ],
     "name:eng_x_variant":[
         "St Croix Island",
         "St. Croix Island",
+        "Saint Croix"
+    ],
+    "name:fra_x_preferred":[
         "Saint Croix"
     ],
     "name:unk_x_variant":[
@@ -156,7 +162,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550586,
+    "wof:lastmodified":1563254544,
     "wof:name":"Saint Croix",
     "wof:parent_id":85632169,
     "wof:placetype":"region",

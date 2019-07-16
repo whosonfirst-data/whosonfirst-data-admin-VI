@@ -25,6 +25,12 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Saint Thomas Island"
+    ],
+    "name:dan_x_preferred":[
+        "Saint Thomas"
+    ],
     "name:eng_x_preferred":[
         "Saint Thomas Island"
     ],
@@ -32,6 +38,15 @@
         "St Thomas Island",
         "St. Thomas Island",
         "Saint Thomas"
+    ],
+    "name:epo_x_preferred":[
+        "Sankt-Tomaso"
+    ],
+    "name:fra_x_preferred":[
+        "Saint Thomas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0422\u043e\u043c\u0430\u0441"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"VIR",
@@ -152,7 +167,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550606,
+    "wof:lastmodified":1563254544,
     "wof:name":"Saint Thomas",
     "wof:parent_id":85632169,
     "wof:placetype":"region",
