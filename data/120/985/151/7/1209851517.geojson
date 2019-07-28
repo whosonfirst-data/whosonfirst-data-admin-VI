@@ -27,6 +27,12 @@
     "iso:country":"VI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Sorgenfri"
+    ],
+    "name:nor_x_preferred":[
+        "Sorgenfri"
+    ],
     "name:und_x_variant":[
         "Sorgenfrey",
         "Sorgfri",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1209851517,
-    "wof:lastmodified":1537713657,
+    "wof:lastmodified":1564311683,
     "wof:name":"Sorgenfri",
     "wof:parent_id":85680571,
     "wof:placetype":"locality",

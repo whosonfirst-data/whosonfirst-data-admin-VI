@@ -27,6 +27,21 @@
     "iso:country":"VI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Profit"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Profit"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ed\u30d5\u30a3\u30c3\u30c8"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e33\u0e44\u0e23"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632169,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1326959013,
-    "wof:lastmodified":1536865032,
+    "wof:lastmodified":1564311655,
     "wof:name":"Profit",
     "wof:parent_id":85680579,
     "wof:placetype":"locality",

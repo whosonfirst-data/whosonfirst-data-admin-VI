@@ -27,6 +27,21 @@
     "iso:country":"VI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Orange Grove"
+    ],
+    "name:ceb_x_preferred":[
+        "Orange Grove"
+    ],
+    "name:deu_x_preferred":[
+        "Orange Grove"
+    ],
+    "name:ita_x_preferred":[
+        "Orange Grove"
+    ],
+    "name:swe_x_preferred":[
+        "Orange Grove"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632169,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1243202621,
-    "wof:lastmodified":1536660306,
+    "wof:lastmodified":1564311718,
     "wof:name":"Orange Grove",
     "wof:parent_id":85680579,
     "wof:placetype":"locality",
