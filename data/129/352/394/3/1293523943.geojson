@@ -27,11 +27,20 @@
     "iso:country":"VI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Clairmont"
+    ],
+    "name:fra_x_preferred":[
+        "Clairmont"
+    ],
     "name:und_x_variant":[
         "Claremont",
         "Clermont",
         "Bodkin's Plantage",
         "Clear Mount"
+    ],
+    "name:wln_x_preferred":[
+        "Clairmont"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1293523943,
-    "wof:lastmodified":1537713654,
+    "wof:lastmodified":1564311666,
     "wof:name":"Clairmont",
     "wof:parent_id":85680579,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "iso:country":"VI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Reine"
+    ],
     "name:und_x_variant":[
         "Ville La Reine"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1259514413,
-    "wof:lastmodified":1537713655,
+    "wof:lastmodified":1564311721,
     "wof:name":"La Reine",
     "wof:parent_id":85680579,
     "wof:placetype":"locality",

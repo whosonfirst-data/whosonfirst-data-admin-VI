@@ -27,6 +27,45 @@
     "iso:country":"VI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Granard"
+    ],
+    "name:ceb_x_preferred":[
+        "Granard"
+    ],
+    "name:deu_x_preferred":[
+        "Granard"
+    ],
+    "name:eus_x_preferred":[
+        "Granard"
+    ],
+    "name:fra_x_preferred":[
+        "Granard"
+    ],
+    "name:gle_x_preferred":[
+        "Gr\u00e1nard"
+    ],
+    "name:ita_x_preferred":[
+        "Granard"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e0\u10d0\u10dc\u10d0\u10e0\u10d3\u10d8"
+    ],
+    "name:nor_x_preferred":[
+        "Granard"
+    ],
+    "name:pol_x_preferred":[
+        "Granard"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0430\u0440\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Granard"
+    ],
+    "name:swe_x_preferred":[
+        "Granard"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632169,
@@ -51,7 +90,7 @@
         }
     ],
     "wof:id":1360316711,
-    "wof:lastmodified":1536608770,
+    "wof:lastmodified":1564311702,
     "wof:name":"Granard",
     "wof:parent_id":85680579,
     "wof:placetype":"locality",

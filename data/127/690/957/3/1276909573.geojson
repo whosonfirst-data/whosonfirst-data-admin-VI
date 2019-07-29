@@ -27,6 +27,15 @@
     "iso:country":"VI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Wheel of Fortune"
+    ],
+    "name:msa_x_preferred":[
+        "Wheel of Fortune"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u0435\u0441\u043e \u0424\u043e\u0440\u0442\u0443\u043d\u044b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632169,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1276909573,
-    "wof:lastmodified":1537000725,
+    "wof:lastmodified":1564311680,
     "wof:name":"Wheel of Fortune",
     "wof:parent_id":85680579,
     "wof:placetype":"locality",
