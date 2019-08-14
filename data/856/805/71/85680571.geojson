@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "census enumeration district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ST"
+    ],
     "lbl:latitude":18.339224,
     "lbl:longitude":-64.901939,
     "mps:latitude":18.339224,
@@ -158,16 +161,13 @@
         }
     ],
     "wof:id":85680571,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563254544,
+    "wof:lastmodified":1565738996,
     "wof:name":"Saint Thomas",
     "wof:parent_id":85632169,
     "wof:placetype":"region",

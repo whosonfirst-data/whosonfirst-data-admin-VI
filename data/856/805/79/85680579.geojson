@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "census enumeration district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SC"
+    ],
     "lbl:latitude":17.746706,
     "lbl:longitude":-64.779172,
     "mps:latitude":17.746706,
@@ -153,16 +156,13 @@
         }
     ],
     "wof:id":85680579,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563254544,
+    "wof:lastmodified":1565738996,
     "wof:name":"Saint Croix",
     "wof:parent_id":85632169,
     "wof:placetype":"region",
