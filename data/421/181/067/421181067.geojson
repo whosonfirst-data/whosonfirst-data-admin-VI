@@ -10,8 +10,12 @@
     "geom:latitude":18.33885,
     "geom:longitude":-64.94876,
     "iso:country":"VI",
+    "lbl:bbox":"-64.96876,18.31885,-64.92876,18.35885",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Altona"
@@ -208,7 +212,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0442\u043e\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Altona and Velgunst"
     ],
     "name:vec_x_preferred":[
@@ -262,7 +266,7 @@
     "wof:concordances":{
         "gn:id":4795186,
         "gp:id":329626,
-        "qs:id":475025,
+        "qs_pg:id":475025,
         "wd:id":"Q295504"
     },
     "wof:country":"VI",
@@ -279,7 +283,7 @@
         }
     ],
     "wof:id":421181067,
-    "wof:lastmodified":1563254594,
+    "wof:lastmodified":1566647190,
     "wof:name":"Altona",
     "wof:parent_id":85680571,
     "wof:placetype":"locality",

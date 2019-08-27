@@ -10,8 +10,12 @@
     "geom:latitude":18.32218,
     "geom:longitude":-64.86181,
     "iso:country":"VI",
+    "lbl:bbox":"-64.88181,18.30218,-64.84181,18.34218",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Benner"
@@ -28,7 +32,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0435\u043d\u043d\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Benders"
     ],
     "qs:gn_country":"VI",
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":4795261,
         "gp:id":329638,
-        "qs:id":298262
+        "qs_pg:id":298262
     },
     "wof:country":"VI",
     "wof:created":1459009005,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421173755,
-    "wof:lastmodified":1564311712,
+    "wof:lastmodified":1566647189,
     "wof:name":"Benner",
     "wof:parent_id":85680571,
     "wof:placetype":"locality",

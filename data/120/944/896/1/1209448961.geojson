@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/St_Thomas",
     "iso:country":"VI",
+    "lbl:bbox":"-64.78931,17.72331,-64.74931,17.76331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Laurberg's Plantage"
     ],
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209448961,
-    "wof:lastmodified":1537713653,
+    "wof:lastmodified":1566647179,
     "wof:name":"Bonne Esperance",
     "wof:parent_id":85632169,
     "wof:placetype":"locality",

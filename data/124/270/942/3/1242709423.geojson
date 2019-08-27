@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/St_Thomas",
     "iso:country":"VI",
+    "lbl:bbox":"-64.83015,17.75164,-64.79015,17.79164",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cane Bay"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242709423,
-    "wof:lastmodified":1537713653,
+    "wof:lastmodified":1566647193,
     "wof:name":"Canebay",
     "wof:parent_id":85680579,
     "wof:placetype":"locality",

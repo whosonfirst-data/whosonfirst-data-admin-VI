@@ -10,10 +10,14 @@
     "geom:latitude":18.32218,
     "geom:longitude":-64.76625,
     "iso:country":"VI",
+    "lbl:bbox":"-64.78625,18.30218,-64.74625,18.34218",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Green Valley"
     ],
     "qs:gn_country":"VI",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":4795703,
         "gp:id":329698,
-        "qs:id":475031
+        "qs_pg:id":475031
     },
     "wof:country":"VI",
     "wof:created":1459009284,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421181069,
-    "wof:lastmodified":1509998022,
+    "wof:lastmodified":1566647189,
     "wof:name":"Fish Bay",
     "wof:parent_id":85680575,
     "wof:placetype":"locality",

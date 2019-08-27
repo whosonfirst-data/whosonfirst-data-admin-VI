@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/St_Thomas",
     "iso:country":"VI",
+    "lbl:bbox":"-64.81876,17.75636,-64.77876,17.79636",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Belvedere"
     ],
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":1276908595,
-    "wof:lastmodified":1564311680,
+    "wof:lastmodified":1566647175,
     "wof:name":"Belvedere",
     "wof:parent_id":85680579,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/St_Thomas",
     "iso:country":"VI",
+    "lbl:bbox":"-64.78459,17.69386,-64.74459,17.73386",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0643\u0629"
     ],
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1326766789,
-    "wof:lastmodified":1564311657,
+    "wof:lastmodified":1566647166,
     "wof:name":"Blessing",
     "wof:parent_id":85680579,
     "wof:placetype":"locality",

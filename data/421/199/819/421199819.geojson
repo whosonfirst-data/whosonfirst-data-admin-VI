@@ -10,10 +10,14 @@
     "geom:latitude":18.36023,
     "geom:longitude":-64.94015,
     "iso:country":"VI",
+    "lbl:bbox":"-64.96015,18.34023,-64.92015,18.38023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Let-Alone"
     ],
     "qs:gn_country":"VI",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":4796031,
         "gp:id":329743,
-        "qs:id":495111
+        "qs_pg:id":495111
     },
     "wof:country":"VI",
     "wof:created":1459010001,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421199819,
-    "wof:lastmodified":1509998023,
+    "wof:lastmodified":1566647190,
     "wof:name":"Lerkenlund",
     "wof:parent_id":85680571,
     "wof:placetype":"locality",
