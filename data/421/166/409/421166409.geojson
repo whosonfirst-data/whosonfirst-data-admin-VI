@@ -10,8 +10,12 @@
     "geom:latitude":17.75886,
     "geom:longitude":-64.6407,
     "iso:country":"VI",
+    "lbl:bbox":"-64.6607,17.73886,-64.6207,17.77886",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Carden"
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":4795427,
         "gp:id":329660,
-        "qs:id":266493,
+        "qs_pg:id":266493,
         "wd:id":"Q5038270"
     },
     "wof:country":"VI",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":421166409,
-    "wof:lastmodified":1561828817,
+    "wof:lastmodified":1566647186,
     "wof:name":"Carden",
     "wof:parent_id":85680579,
     "wof:placetype":"locality",

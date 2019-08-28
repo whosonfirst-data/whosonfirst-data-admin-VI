@@ -10,8 +10,12 @@
     "geom:latitude":18.34579,
     "geom:longitude":-64.87236,
     "iso:country":"VI",
+    "lbl:bbox":"-64.89236,18.32579,-64.85236,18.36579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Frydendal"
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":4795781,
         "gp:id":329709,
-        "qs:id":1082683,
+        "qs_pg:id":1082683,
         "wd:id":"Q5506577"
     },
     "wof:country":"VI",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421187313,
-    "wof:lastmodified":1561828817,
+    "wof:lastmodified":1566647188,
     "wof:name":"Frydendal",
     "wof:parent_id":85680571,
     "wof:placetype":"locality",

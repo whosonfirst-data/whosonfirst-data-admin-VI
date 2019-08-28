@@ -10,10 +10,14 @@
     "geom:latitude":18.32051,
     "geom:longitude":-64.72458,
     "iso:country":"VI",
+    "lbl:bbox":"-64.74458,18.30051,-64.70458,18.34051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Limeshore"
     ],
     "qs:gn_country":"VI",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":4796008,
         "gp:id":329740,
-        "qs:id":235284
+        "qs_pg:id":235284
     },
     "wof:country":"VI",
     "wof:created":1459010164,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421203801,
-    "wof:lastmodified":1509998023,
+    "wof:lastmodified":1566647188,
     "wof:name":"Lameshur",
     "wof:parent_id":85680575,
     "wof:placetype":"locality",

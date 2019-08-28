@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/St_Thomas",
     "iso:country":"VI",
+    "lbl:bbox":"-64.89209,17.73303,-64.85209,17.77303",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Nicholas"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1310532259,
-    "wof:lastmodified":1564311695,
+    "wof:lastmodified":1566647182,
     "wof:name":"Nicholas",
     "wof:parent_id":85680579,
     "wof:placetype":"locality",

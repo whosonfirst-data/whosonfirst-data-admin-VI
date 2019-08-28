@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/St_Thomas",
     "iso:country":"VI",
+    "lbl:bbox":"-64.93098,18.33912,-64.89098,18.37912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lovelund"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243299657,
-    "wof:lastmodified":1537713655,
+    "wof:lastmodified":1566647194,
     "wof:name":"Lovenlund",
     "wof:parent_id":85680571,
     "wof:placetype":"locality",

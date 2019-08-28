@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/St_Thomas",
     "iso:country":"VI",
+    "lbl:bbox":"-64.75653,18.33579,-64.71653,18.37579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Mount Pleasant"
     ],
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1343297987,
-    "wof:lastmodified":1564311663,
+    "wof:lastmodified":1566647168,
     "wof:name":"Mount Pleasant",
     "wof:parent_id":85680575,
     "wof:placetype":"locality",

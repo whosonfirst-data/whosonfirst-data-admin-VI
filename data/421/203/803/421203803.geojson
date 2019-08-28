@@ -10,8 +10,12 @@
     "geom:latitude":18.36329,
     "geom:longitude":-64.72041,
     "iso:country":"VI",
+    "lbl:bbox":"-64.74041,18.34329,-64.70041,18.38329",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"VI",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":4796025,
         "gp:id":329742,
-        "qs:id":235285
+        "qs_pg:id":235285
     },
     "wof:country":"VI",
     "wof:created":1459010164,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421203803,
-    "wof:lastmodified":1509998023,
+    "wof:lastmodified":1566647188,
     "wof:name":"Leinster Bay",
     "wof:parent_id":85680575,
     "wof:placetype":"locality",

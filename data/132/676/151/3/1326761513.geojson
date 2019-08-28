@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/St_Thomas",
     "iso:country":"VI",
+    "lbl:bbox":"-64.7268,18.32884,-64.6868,18.36884",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Palestina"
     ],
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":1326761513,
-    "wof:lastmodified":1564311656,
+    "wof:lastmodified":1566647166,
     "wof:name":"Palestina",
     "wof:parent_id":85680575,
     "wof:placetype":"locality",

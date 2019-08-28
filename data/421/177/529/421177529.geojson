@@ -10,10 +10,14 @@
     "geom:latitude":18.35246,
     "geom:longitude":-64.93153,
     "iso:country":"VI",
+    "lbl:bbox":"-64.95153,18.33246,-64.91153,18.37246",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ma Folie"
     ],
     "qs:gn_country":"VI",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":4796115,
         "gp:id":329754,
-        "qs:id":1341632
+        "qs_pg:id":1341632
     },
     "wof:country":"VI",
     "wof:created":1459009148,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421177529,
-    "wof:lastmodified":1509998022,
+    "wof:lastmodified":1566647191,
     "wof:name":"Mafolie",
     "wof:parent_id":85680571,
     "wof:placetype":"locality",

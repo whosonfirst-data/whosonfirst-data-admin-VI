@@ -10,8 +10,12 @@
     "geom:latitude":17.74803,
     "geom:longitude":-64.61625,
     "iso:country":"VI",
+    "lbl:bbox":"-64.63625,17.72803,-64.59625,17.76803",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Catharinas Hope"
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":4795456,
         "gp:id":329665,
-        "qs:id":1082681,
+        "qs_pg:id":1082681,
         "wd:id":"Q5052092"
     },
     "wof:country":"VI",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421187311,
-    "wof:lastmodified":1561828817,
+    "wof:lastmodified":1566647188,
     "wof:name":"Catharinas Hope",
     "wof:parent_id":85680579,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/St_Thomas",
     "iso:country":"VI",
+    "lbl:bbox":"-64.82376,17.71553,-64.78376,17.75553",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Jaloesie"
     ],
@@ -207,7 +211,7 @@
         }
     ],
     "wof:id":1225880593,
-    "wof:lastmodified":1564311724,
+    "wof:lastmodified":1566647196,
     "wof:name":"Jealousy",
     "wof:parent_id":85680579,
     "wof:placetype":"locality",

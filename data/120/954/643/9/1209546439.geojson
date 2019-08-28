@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/St_Thomas",
     "iso:country":"VI",
+    "lbl:bbox":"-64.83653,17.6722,-64.79653,17.7122",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bettyshope",
         "Betty's Hope"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209546439,
-    "wof:lastmodified":1537713653,
+    "wof:lastmodified":1566647176,
     "wof:name":"Bettys Hope",
     "wof:parent_id":85632169,
     "wof:placetype":"locality",
