@@ -64,6 +64,9 @@
     },
     "wof:country":"VI",
     "wof:created":1459009300,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4948755bb3dc7b176bb611d686c6dfa5",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421181571,
-    "wof:lastmodified":1566647190,
+    "wof:lastmodified":1582381960,
     "wof:name":"Great Pond",
     "wof:parent_id":85680579,
     "wof:placetype":"locality",
