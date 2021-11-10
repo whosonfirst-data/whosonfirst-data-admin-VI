@@ -34,6 +34,9 @@
     "name:deu_x_preferred":[
         "La Grange"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4 \u05d2\u05e8\u05d0\u05e0\u05d2'"
+    ],
     "name:nld_x_preferred":[
         "La Grange"
     ],
@@ -46,7 +49,7 @@
         "gn:id":4796000
     },
     "wof:country":"VI",
-    "wof:geomhash":"499509ebf2457e4235904fd4c76eefd5",
+    "wof:geomhash":"605ac8fb155361693ed838b9e2cf783c",
     "wof:hierarchy":[
         {
             "dependency_id":85632169,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1209446429,
-    "wof:lastmodified":1566647179,
+    "wof:lastmodified":1636505136,
     "wof:name":"La Grange",
     "wof:parent_id":85632169,
     "wof:placetype":"locality",
@@ -64,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.87848000000001,
+    -64.87848,
     17.71914,
-    -64.87848000000001,
+    -64.87848,
     17.71914
 ],
-  "geometry": {"coordinates":[-64.87848000000001,17.71914],"type":"Point"}
+  "geometry": {"coordinates":[-64.87848,17.71914],"type":"Point"}
 }

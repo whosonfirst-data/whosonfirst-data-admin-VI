@@ -104,6 +104,9 @@
         "Saint John"
     ],
     "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0414\u0436\u043e\u043d"
+    ],
+    "name:ukr_x_variant":[
         "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u043d"
     ],
     "name:und_x_variant":[
@@ -118,8 +121,17 @@
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u062c\u0627\u0646"
     ],
+    "name:vie_x_preferred":[
+        "Saint John"
+    ],
     "name:vol_x_preferred":[
         "Saint John"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u7ea6\u7ff0\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u7d04\u7ff0\u6cb3"
     ],
     "name:zho_x_preferred":[
         "\u8056\u7d04\u7ff0"
@@ -136,7 +148,7 @@
         "gn:id":4796527
     },
     "wof:country":"VI",
-    "wof:geomhash":"23eb6b82dca43b6d5b308e13fbbc0cd4",
+    "wof:geomhash":"3c0a88fd24e2cf29da58fe33ea36248c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,7 +160,7 @@
         }
     ],
     "wof:id":1293525633,
-    "wof:lastmodified":1566647170,
+    "wof:lastmodified":1636505135,
     "wof:name":"Saint John",
     "wof:parent_id":85680575,
     "wof:placetype":"locality",
@@ -158,10 +170,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.74958000000001,
+    -64.74958,
     18.33968,
-    -64.74958000000001,
+    -64.74958,
     18.33968
 ],
-  "geometry": {"coordinates":[-64.74958000000001,18.33968],"type":"Point"}
+  "geometry": {"coordinates":[-64.74957999999999,18.33968],"type":"Point"}
 }

@@ -335,6 +335,9 @@
         "San Piero"
     ],
     "name:vie_x_preferred":[
+        "Saint Peter"
+    ],
+    "name:vie_x_variant":[
         "Th\u00e1nh Ph\u00ear\u00f4"
     ],
     "name:war_x_preferred":[
@@ -351,6 +354,12 @@
     ],
     "name:zea_x_preferred":[
         "Petrus"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u5f7c\u5f97"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u5f7c\u5f97"
     ],
     "name:zho_x_preferred":[
         "\u5f7c\u5f97"
@@ -379,7 +388,7 @@
         }
     ],
     "wof:id":1276589719,
-    "wof:lastmodified":1566647173,
+    "wof:lastmodified":1636505136,
     "wof:name":"Saint Peter",
     "wof:parent_id":85680579,
     "wof:placetype":"locality",

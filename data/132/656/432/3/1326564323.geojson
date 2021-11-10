@@ -64,6 +64,9 @@
     "name:fra_x_preferred":[
         "Spanish Town"
     ],
+    "name:hun_x_preferred":[
+        "Spanish Town"
+    ],
     "name:ind_x_preferred":[
         "Spanish Town"
     ],
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":1326564323,
-    "wof:lastmodified":1566647165,
+    "wof:lastmodified":1636505135,
     "wof:name":"Spanish Town",
     "wof:parent_id":85680579,
     "wof:placetype":"locality",
