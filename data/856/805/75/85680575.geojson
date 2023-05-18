@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00508,
-    "geom:area_square_m":59621080.219068,
+    "geom:area_square_m":59620914.005891,
     "geom:bbox":"-64.801285,18.30331,-64.66039,18.37359",
     "geom:latitude":18.340048,
     "geom:longitude":-64.735174,
@@ -302,11 +302,12 @@
         "gp:id":24549908,
         "hasc:id":"VI.SJ",
         "qs_pg:id":1086152,
+        "uscensus:geoid":"020",
         "wd:id":"Q849441",
         "wk:page":"Saint John, U.S. Virgin Islands"
     },
     "wof:country":"VI",
-    "wof:geomhash":"e30681a127103cbc20b4684d13f74638",
+    "wof:geomhash":"1fa661cbd390b0abe00bcc3fa7b3b224",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -323,7 +324,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636505135,
+    "wof:lastmodified":1684392466,
     "wof:name":"Saint John",
     "wof:parent_id":85632169,
     "wof:placetype":"region",

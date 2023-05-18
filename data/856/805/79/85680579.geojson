@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018186,
-    "geom:area_square_m":214185339.710442,
+    "geom:area_square_m":214184608.843397,
     "geom:bbox":"-64.895172,17.682766,-64.559397,17.792629",
     "geom:latitude":17.739306,
     "geom:longitude":-64.762638,
@@ -218,10 +218,11 @@
         "gp:id":24549907,
         "hasc:id":"VI.SC",
         "qs_pg:id":1086150,
+        "uscensus:geoid":"030",
         "wd:id":"Q20852568"
     },
     "wof:country":"VI",
-    "wof:geomhash":"5052c38823424f82f71c6adc3340196d",
+    "wof:geomhash":"fc13adee267f974232c8737ea332608b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -238,7 +239,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636505135,
+    "wof:lastmodified":1684392466,
     "wof:name":"Saint Croix",
     "wof:parent_id":85632169,
     "wof:placetype":"region",
