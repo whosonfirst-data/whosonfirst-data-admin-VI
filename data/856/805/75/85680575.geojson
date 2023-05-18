@@ -302,7 +302,7 @@
         "gp:id":24549908,
         "hasc:id":"VI.SJ",
         "qs_pg:id":1086152,
-        "uscensus:geoid":"020",
+        "uscensus:geoid":"78020",
         "wd:id":"Q849441",
         "wk:page":"Saint John, U.S. Virgin Islands"
     },
@@ -324,7 +324,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1684392466,
+    "wof:lastmodified":1684434498,
     "wof:name":"Saint John",
     "wof:parent_id":85632169,
     "wof:placetype":"region",

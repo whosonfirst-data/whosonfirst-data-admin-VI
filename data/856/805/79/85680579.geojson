@@ -218,7 +218,7 @@
         "gp:id":24549907,
         "hasc:id":"VI.SC",
         "qs_pg:id":1086150,
-        "uscensus:geoid":"030",
+        "uscensus:geoid":"78030",
         "wd:id":"Q20852568"
     },
     "wof:country":"VI",
@@ -239,7 +239,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1684392466,
+    "wof:lastmodified":1684434498,
     "wof:name":"Saint Croix",
     "wof:parent_id":85632169,
     "wof:placetype":"region",
