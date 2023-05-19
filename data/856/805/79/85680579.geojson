@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018186,
-    "geom:area_square_m":214185339.710442,
+    "geom:area_square_m":214184608.843397,
     "geom:bbox":"-64.895172,17.682766,-64.559397,17.792629",
     "geom:latitude":17.739306,
     "geom:longitude":-64.762638,
@@ -192,8 +192,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"218",
     "statoids:area_mi":"84",
     "statoids:as_of_date":"2010-04-01",
@@ -206,6 +206,8 @@
     "statoids:population":"50601",
     "statoids:timezone":"-4",
     "statoids:type":"census enumeration district",
+    "uscensus:population":41004,
+    "uscensus:population_year":2020,
     "wof:belongsto":[
         102191575,
         85632169,
@@ -218,10 +220,11 @@
         "gp:id":24549907,
         "hasc:id":"VI.SC",
         "qs_pg:id":1086150,
+        "uscensus:geoid":"78030",
         "wd:id":"Q20852568"
     },
     "wof:country":"VI",
-    "wof:geomhash":"5052c38823424f82f71c6adc3340196d",
+    "wof:geomhash":"fc13adee267f974232c8737ea332608b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -238,13 +241,13 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636505135,
+    "wof:lastmodified":1684438875,
     "wof:name":"Saint Croix",
     "wof:parent_id":85632169,
     "wof:placetype":"region",
     "wof:placetype_local":"census enumeration district",
-    "wof:population":50601,
-    "wof:population_rank":8,
+    "wof:population":41004,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-vi",
     "wof:shortcode":"SC",
     "wof:superseded_by":[],
