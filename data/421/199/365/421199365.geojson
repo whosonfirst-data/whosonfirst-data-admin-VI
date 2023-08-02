@@ -140,6 +140,9 @@
     "name:egl_x_preferred":[
         "Hoffman"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03cc\u03c6\u03bc\u03b1\u03bd"
+    ],
     "name:eml_x_preferred":[
         "Hoffman"
     ],
@@ -355,6 +358,9 @@
     ],
     "name:lav_x_preferred":[
         "Hoffman"
+    ],
+    "name:lav_x_variant":[
+        "Hofmans"
     ],
     "name:lfn_x_preferred":[
         "Hoffman"
@@ -739,7 +745,7 @@
         }
     ],
     "wof:id":421199365,
-    "wof:lastmodified":1566647190,
+    "wof:lastmodified":1690921378,
     "wof:name":"Hoffman",
     "wof:parent_id":85680571,
     "wof:placetype":"locality",

@@ -113,6 +113,9 @@
     "name:ita_x_preferred":[
         "Annaberg"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30ca\u30d9\u30eb\u30af"
+    ],
     "name:kon_x_preferred":[
         "Annaberg"
     ],
@@ -277,7 +280,7 @@
         }
     ],
     "wof:id":421187307,
-    "wof:lastmodified":1566647188,
+    "wof:lastmodified":1690921373,
     "wof:name":"Annaberg",
     "wof:parent_id":85680575,
     "wof:placetype":"locality",

@@ -34,6 +34,12 @@
     "name:nob_x_preferred":[
         "Coral Bay"
     ],
+    "name:pol_x_preferred":[
+        "Coral Bay"
+    ],
+    "name:por_x_preferred":[
+        "Coral Bay"
+    ],
     "name:und_x_variant":[
         "Coralbay"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1125895547,
-    "wof:lastmodified":1566647191,
+    "wof:lastmodified":1690921380,
     "wof:name":"Coral Bay",
     "wof:parent_id":85680575,
     "wof:placetype":"locality",

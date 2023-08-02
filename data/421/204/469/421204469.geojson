@@ -230,6 +230,9 @@
     "name:wol_x_preferred":[
         "Hermitage"
     ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u7c73\u7279\u5409"
+    ],
     "name:zul_x_preferred":[
         "Hermitage"
     ],
@@ -280,7 +283,7 @@
         }
     ],
     "wof:id":421204469,
-    "wof:lastmodified":1566647187,
+    "wof:lastmodified":1690921373,
     "wof:name":"Hermitage",
     "wof:parent_id":85680575,
     "wof:placetype":"locality",

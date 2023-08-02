@@ -29,6 +29,9 @@
     "name:bar_x_preferred":[
         "Altona"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u043b\u044c\u0442\u043e\u043d\u0430"
+    ],
     "name:bre_x_preferred":[
         "Altona"
     ],
@@ -283,7 +286,7 @@
         }
     ],
     "wof:id":421181067,
-    "wof:lastmodified":1566647190,
+    "wof:lastmodified":1690921376,
     "wof:name":"Altona",
     "wof:parent_id":85680571,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Great Pond"
     ],
+    "name:hrv_x_preferred":[
+        "Great Pond"
+    ],
     "name:nld_x_preferred":[
         "Great Pond"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421181571,
-    "wof:lastmodified":1582381960,
+    "wof:lastmodified":1690921377,
     "wof:name":"Great Pond",
     "wof:parent_id":85680579,
     "wof:placetype":"locality",

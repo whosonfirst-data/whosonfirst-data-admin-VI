@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-64.7499860043,17.7503751821,-64.7499860043,17.7503751821",
+    "geom:bbox":"-64.749986,17.750375,-64.749986,17.750375",
     "geom:latitude":17.750375,
     "geom:longitude":-64.749986,
     "iso:country":"VI",
@@ -19,6 +19,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0643\u0631\u064a\u0633\u062a\u064a\u0627\u0646\u0633\u062a\u064a\u062f"
+    ],
+    "name:arz_x_preferred":[
         "\u0643\u0631\u064a\u0633\u062a\u064a\u0627\u0646\u0633\u062a\u064a\u062f"
     ],
     "name:azb_x_preferred":[
@@ -52,6 +55,9 @@
         "Christiansted"
     ],
     "name:fra_x_preferred":[
+        "Christiansted"
+    ],
+    "name:frr_x_preferred":[
         "Christiansted"
     ],
     "name:glg_x_preferred":[
@@ -99,6 +105,12 @@
     "name:mar_x_preferred":[
         "\u0916\u094d\u0930\u093f\u0936\u094d\u091a\u0928\u0938\u094d\u091f\u0947\u0921"
     ],
+    "name:mdf_x_preferred":[
+        "\u041a\u0440\u0438\u0441\u0442\u0438\u0430\u043d\u0441\u0442\u044d\u0434"
+    ],
+    "name:mlt_x_preferred":[
+        "Christiansted"
+    ],
     "name:msa_x_preferred":[
         "Christiansted"
     ],
@@ -116,6 +128,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0438\u0441\u0442\u0438\u0430\u043d\u0441\u0442\u0435\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "Christiansted"
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dca\u0dbb\u0dd2\u0dc3\u0dca\u0da7\u0dd2\u0dba\u0db1\u0dca\u0dc3\u0dca\u0da7\u0da9\u0dca"
@@ -264,7 +279,7 @@
     },
     "wof:country":"VI",
     "wof:created":1499130889,
-    "wof:geomhash":"407f44aaf34cc4bfbc8a2c3d4dc03d82",
+    "wof:geomhash":"9a2f1e0fc3b994cd18153b4de3fa61aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -276,7 +291,7 @@
         }
     ],
     "wof:id":1141908373,
-    "wof:lastmodified":1566647198,
+    "wof:lastmodified":1690921382,
     "wof:name":"Christiansted",
     "wof:parent_id":85680579,
     "wof:placetype":"locality",
@@ -286,10 +301,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.74998600427779,
-    17.75037518205357,
-    -64.74998600427779,
-    17.75037518205357
+    -64.749986,
+    17.750375,
+    -64.749986,
+    17.750375
 ],
-  "geometry": {"coordinates":[-64.74998600427779,17.75037518205357],"type":"Point"}
+  "geometry": {"coordinates":[-64.74998600000001,17.750375],"type":"Point"}
 }

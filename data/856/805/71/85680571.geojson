@@ -82,6 +82,9 @@
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30c8\u30fb\u30c8\u30fc\u30de\u30b9"
     ],
+    "name:jpn_x_variant":[
+        "\u30bb\u30a4\u30f3\u30c8\u30fb\u30c8\u30de\u30b9"
+    ],
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8 \ud1a0\ub9c8\uc2a4"
     ],
@@ -223,7 +226,7 @@
         "wd:id":"Q20851010"
     },
     "wof:country":"VI",
-    "wof:geomhash":"f4c5f2451adc1920123c3bbdf0a5e52f",
+    "wof:geomhash":"1ec997c2912351e5cf00d8cfa2be524e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -240,7 +243,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1684438875,
+    "wof:lastmodified":1690921371,
     "wof:name":"Saint Thomas",
     "wof:parent_id":85632169,
     "wof:placetype":"region",
