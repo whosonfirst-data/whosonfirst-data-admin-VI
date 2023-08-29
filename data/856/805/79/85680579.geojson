@@ -71,6 +71,9 @@
     "name:hun_x_preferred":[
         "Saint Croix"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u0576\u0569 \u0554\u0580\u0578\u0582\u057d"
+    ],
     "name:ind_x_preferred":[
         "Saint Croix"
     ],
@@ -94,6 +97,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043d\u0442-\u041a\u0440\u0443\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441"
     ],
     "name:spa_x_preferred":[
         "Santa Cruz"
@@ -224,7 +230,7 @@
         "wd:id":"Q20852568"
     },
     "wof:country":"VI",
-    "wof:geomhash":"fc13adee267f974232c8737ea332608b",
+    "wof:geomhash":"5052c38823424f82f71c6adc3340196d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -241,7 +247,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1684438875,
+    "wof:lastmodified":1690921371,
     "wof:name":"Saint Croix",
     "wof:parent_id":85632169,
     "wof:placetype":"region",

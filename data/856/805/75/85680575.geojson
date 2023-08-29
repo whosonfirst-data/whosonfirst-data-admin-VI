@@ -33,6 +33,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u062c\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646\u062a \u062c\u0648\u0646"
+    ],
     "name:ast_x_preferred":[
         "San Xuan"
     ],
@@ -80,6 +83,9 @@
     "name:fra_x_preferred":[
         "Saint John"
     ],
+    "name:frr_x_preferred":[
+        "Saint John"
+    ],
     "name:glg_x_preferred":[
         "San Xo\u00e1n"
     ],
@@ -106,6 +112,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30c8\u30fb\u30b8\u30e7\u30f3\u5cf6"
+    ],
+    "name:jpn_x_variant":[
+        "\u30bb\u30a4\u30f3\u30c8\u30fb\u30b8\u30e7\u30f3\u5cf6"
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0c9c\u0cbe\u0ca8\u0ccd"
@@ -309,7 +318,7 @@
         "wk:page":"Saint John, U.S. Virgin Islands"
     },
     "wof:country":"VI",
-    "wof:geomhash":"1fa661cbd390b0abe00bcc3fa7b3b224",
+    "wof:geomhash":"e30681a127103cbc20b4684d13f74638",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -326,7 +335,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1684438875,
+    "wof:lastmodified":1690921370,
     "wof:name":"Saint John",
     "wof:parent_id":85632169,
     "wof:placetype":"region",
