@@ -225,8 +225,9 @@
         "uscensus:geoid":"78010",
         "wd:id":"Q20851010"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"VI",
-    "wof:geomhash":"1ec997c2912351e5cf00d8cfa2be524e",
+    "wof:geomhash":"f4c5f2451adc1920123c3bbdf0a5e52f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -243,7 +244,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690921371,
+    "wof:lastmodified":1695885335,
     "wof:name":"Saint Thomas",
     "wof:parent_id":85632169,
     "wof:placetype":"region",
