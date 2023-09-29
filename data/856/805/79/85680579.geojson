@@ -229,8 +229,9 @@
         "uscensus:geoid":"78030",
         "wd:id":"Q20852568"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"VI",
-    "wof:geomhash":"5052c38823424f82f71c6adc3340196d",
+    "wof:geomhash":"fc13adee267f974232c8737ea332608b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -247,7 +248,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690921371,
+    "wof:lastmodified":1695885335,
     "wof:name":"Saint Croix",
     "wof:parent_id":85632169,
     "wof:placetype":"region",
